@@ -1,0 +1,180 @@
+#EXTINF:-1,AXN
+http://170.254.18.106/AXN/index.m3u8
+#EXTINF:-1,AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1,TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1,FOX
+http://170.254.18.109/FOX/index.m3u8
+#EXTINF:-1,FX
+http://170.254.18.106/FX/index.m3u8
+#EXTINF:-1,Cinemax
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1,STAR
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1,HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1,HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1,HBO POP
+http://170.254.18.109/HBO_POP/index.m3u8
+#EXTINF:-1,HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1,HBO Xtrene
+http://170.254.18.109/HBO_XTREME/index.m3u8
+#EXTINF:-1,HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1,HBO Mundi
+http://170.254.18.106/HBO_MUNDI/index.m3u8
+#EXTINF:-1,Universal Channel
+http://170.254.18.108/UNIVERSAL/index.m3u8
+#EXTINF:-1,WBTV
+http://170.254.18.108/WBTV/index.m3u8
+#EXTINF:-1,Crave
+http://170.254.18.109/CRAVE/index.m3u8
+#EXTINF:-1,Lifetime
+http://170.254.18.106/LIFETIME/index.m3u8
+#EXTINF:-1,TNT Series
+http://170.254.18.109/TNT_SERIES/index.m3u8
+#EXTINF:-1,CINECANAL
+http://170.254.18.109/CINECANAL/index.m3u8
+#EXTINF:-1,SPACE
+http://170.254.18.109/SPACE/index.m3u8
+#EXTINF:-1,SYFY
+http://170.254.18.109/SYFY/index.m3u8
+#EXTINF:-1,A&E
+http://170.254.18.108/AE/index.m3u8
+#EXTINF:-1,USA
+http://170.254.18.106/USA/index.m3u8
+#EXTINF:-1,TCM
+http://170.254.18.109/TCM/index.m3u8
+#EXTINF:-1 ,HALLMARK
+http://170.254.18.106:80/HALLMARK/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://170.254.18.109/PARAMOUNT/index.m3u8
+#EXTINF:-1,Comedy Central
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1,Pasiones
+http://170.254.18.109/PASIONES/index.m3u8
+#EXTINF:-1,Las Estrellas
+http://170.254.18.109/ESTRELLAS/index.m3u8
+#EXTINF:-1,Telemundo
+http://170.254.18.108/TELEMUNDO/index.m3u8
+#EXTINF:-1,LMN
+http://170.254.18.106/LMN/index.m3u8
+#EXTINF:-1,HTV
+http://170.254.18.106/HTV/index.m3u8
+#EXTINF:-1,TELEHIT
+http://170.254.18.106/TELEHIT/index.m3u8
+#EXTINF:-1,TELEHIT Urbano
+http://170.254.18.109/TELEHIT_URBANO/index.m3u8
+#EXTINF:-1,MTV
+http://170.254.18.109/MTV/index.m3u8
+#EXTINF:-1,VH1
+http://170.254.18.109/VH1/index.m3u8
+#EXTINF:-1,BET
+http://170.254.18.109/BET/index.m3u8
+#EXTINF:-1,Bravo
+http://170.254.18.106/BRAVO/index.m3u8
+#EXTINF:-1,ABC
+http://170.254.18.108/ABC/index.m3u8
+#EXTINF:-1,TBS
+http://170.254.18.106/TBS/index.m3u8
+#EXTINF:-1,CBS
+http://170.254.18.108/CBS/index.m3u8
+#EXTINF:-1,NBC
+http://170.254.18.108/NBC/index.m3u8
+#EXTINF:-1,CNBC
+http://170.254.18.108/CNBC/index.m3u8
+#EXTINF:-1 ,CTV
+http://170.254.18.108/CTV/index.m3u8
+#EXTINF:-1,CNN
+http://170.254.18.108/CNN/index.m3u8
+#EXTINF:-1,TreeHouse
+http://170.254.18.109/TREEHOUSE/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://170.254.18.109/NICKELODEON/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://170.254.18.109/DISCOVERY_KIDS/index.m3u8
+#EXTINF:-1,Disney Channel
+http://170.254.18.108/DISNEY/index.m3u8
+#EXTINF:-1,Disney JR
+http://170.254.18.108/DISNEY_JR/index.m3u8
+#EXTINF:-1,Cartoonito
+http://170.254.18.108/CARTOONITO/index.m3u8
+#EXTINF:-1,Baby First
+http://170.254.18.109/BABYFIRST/index.m3u8
+#EXTINF:-1,Baby TV
+http://170.254.18.108/BABYTV/index.m3u8
+#EXTINF:-1,ESPN
+http://170.254.18.109/ESPN/index.m3u8
+#EXTINF:-1,ESPN2
+http://170.254.18.109/ESPN2/index.m3u8
+#EXTINF:-1,ESPN U
+http://170.254.18.108/ESPNU/mono.m3u8
+#EXTINF:-1,ESPN Deportes
+http://170.254.18.108/ESPN_DEPORTES/mono.m3u8
+#EXTINF:-1,FOX Deportes
+http://170.254.18.108/FOX_DEPORTES/mono.m3u8
+#EXTINF:-1,Stadium
+http://170.254.18.108/STADIUM/mono.m3u8
+#EXTINF:-1 ,UNIMAS
+http://170.254.18.108:80/UNIMAS/index.m3u8
+#EXTINF:-1,TUDN
+http://170.254.18.108/TUDN/index.m3u8
+#EXTINF:-1,NBA
+http://170.254.18.109/NBA/index.m3u8
+#EXTINF:-1,NFL
+http://170.254.18.109/NFL/index.m3u8
+#EXTINF:-1,MLB
+http://170.254.18.109/MLB/index.m3u8
+#EXTINF:-1 ,HLN
+http://170.254.18.108:80/HLN/index.m3u8
+#EXTINF:-1 ,GOLF
+http://170.254.18.108:80/GOLF/index.m3u8
+#EXTINF:-1 ,TENNIS
+http://170.254.18.108:80/TENNIS/index.m3u8
+#EXTINF:-1,TLC
+http://170.254.18.110/TLC/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://170.254.18.110/DISCOVERY/index.m3u8
+#EXTINF:-1,Discovery ID
+http://170.254.18.110/DISCOVERY_ID/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://170.254.18.110/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1,Discovery Theater
+http://170.254.18.110/DISCOVERY_THEATER/index.m3u8
+#EXTINF:-1,Discovery World
+http://170.254.18.109/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1,Discovery Science
+http://170.254.18.106/DISCOVERY_SCIENCE/index.m3u8
+#EXTINF:-1 ,HISTORY
+http://170.254.18.109/HISTORY/index.m3u8
+#EXTINF:-1 ,HISTORY 2
+http://170.254.18.108/HISTORY2/index.m3u8
+#EXTINF:-1 ,OUTDOOR
+http://170.254.18.109/OUTDOOR/index.m3u8
+#EXTINF:-1 ,FOOD
+http://170.254.18.106/FOOD/index.m3u8
+#EXTINF:-1 ,MAKEFUL
+http://170.254.18.109/MAKEFUL/index.m3u8
+#EXTINF:-1 ,COMET
+http://170.254.18.109/COMET/index.m3u8
+#EXTINF:-1 ,BOUNCE
+http://170.254.18.109/BOUNCE/index.m3u8
+#EXTINF:-1 ,FUSE
+http://170.254.18.108/FUSE/index.m3u8
+#EXTINF:-1 ,GSN
+http://170.254.18.108/GSN/index.m3u8
+#EXTINF:-1,Sony Entertainment
+http://170.254.18.107/SONY/index.m3u8
+#EXTINF:-1,Sony Max
+http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:-1,Zee TV
+http://170.254.18.107/ZEE/index.m3u8
+#EXTINF:-1,Colors TV
+http://170.254.18.107/COLORS/index.m3u8
+#EXTINF:-1,Colors Cineplex
+http://170.254.18.107/CINEPLEX/index.m3u8
+#EXTINF:-1,Enlace
+http://170.254.18.109/ENLACE/index.m3u8
