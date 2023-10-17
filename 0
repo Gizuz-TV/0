@@ -1,16 +1,21 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS LATAM
 https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+#EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", 4 GDL
 https://channel08-notusa.akamaized.net/hls/live/2037034/event01/index_5.m3u8
 #EXTINF:-1 group-title="Bics", 8 MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+#EXTINF:-1 group-title="Bics", 8 MTY
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 group-title="Bics", GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
