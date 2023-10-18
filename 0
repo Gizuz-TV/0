@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV4", BABYTV
 http://204.199.120.34:16123/play/ch01
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/DISCOVERY_KIDS.png",DISCOVERY_KIDS
+#EXTINF:-1 group-title="TV4" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/DISCOVERY_KIDS.png",DISCOVERY_KIDS
 http://204.199.120.34:16123/play/ch02
 #EXTINF:-1 group-title="TV4", DISNEY
 http://204.199.120.34:16123/play/ch03
@@ -13,17 +13,17 @@ http://204.199.120.34:16123/play/ch05
 http://204.199.120.34:16123/play/ch06
 #EXTINF:-1 group-title="TV4", STAR
 http://204.199.120.34:16123/play/ch07
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/FX.png",FX
+#EXTINF:-1 group-title="TV4" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/FX.png",FX
 http://204.199.120.34:16123/play/ch08
 #EXTINF:-1 group-title="TV4", EUROCHANNEL
 http://204.199.120.34:16123/play/ch09
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/CINECANAL.png",CINECANAL
+#EXTINF:-1 group-title="TV4" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/CINECANAL.png",CINECANAL
 http://204.199.120.34:16123/play/ch10
 #EXTINF:-1 group-title="TV4", Film&Arts
 http://204.199.120.34:16123/play/ch11
 #EXTINF:-1 group-title="TV4", CINELATINO
 http://204.199.120.34:16123/play/ch12
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AMC.png",AMC
+#EXTINF:-1 group-title="TV4" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/AMC.png",AMC
 http://204.199.120.34:16123/play/ch13
 #EXTINF:-1 group-title="TV4", DHE
 http://204.199.120.34:16123/play/ch14
@@ -65,7 +65,7 @@ http://204.199.120.34:16123/play/ch40
 http://204.199.120.34:16123/play/ch42
 #EXTINF:-1 group-title="TV4", FRANCE 24
 http://204.199.120.34:16123/play/ch43
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png",LAS ESTRELLAS
+#EXTINF:-1 group-title="TV4" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/LAS_ESTRELLAS.png",LAS ESTRELLAS
 http://204.199.120.34:16123/play/ch44
 #EXTINF:-1 group-title="TV4", TLNOVELAS
 http://204.199.120.34:16123/play/ch45
@@ -221,9 +221,9 @@ http://190.61.46.126:8000/play/a03t/index.m3u8
 http://190.61.46.126:8000/play/a02k/index.m3u8
 #EXTINF:-1,HTV
 http://190.61.46.126:8000/play/a02o/index.m3u8
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png",H2
+#EXTINF:-1 group-title="TV4" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY2.png",H2
 http://190.61.46.126:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="MUNDO Y CULTURA" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY.png",H
+#EXTINF:-1 group-title="TV4" tvg-logo="https://www.izzi.mx/izzi/v3/img/dummy-img/channels/HISTORY.png",H
 http://190.61.46.126:8000/play/a00k/index.m3u8
 #EXTINF:-1,ID HD
 http://190.61.46.126:8000/play/a011/index.m3u8
