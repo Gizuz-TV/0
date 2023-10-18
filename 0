@@ -1,149 +1,219 @@
 #EXTM3U
-#EXTINF:-1 group-title="TV4", BABYTV
-http://204.199.120.34:16123/play/ch01
-#EXTINF:-1 group-title="TV4", DISCOVERY KIDS
-http://204.199.120.34:16123/play/ch02
-#EXTINF:-1 group-title="TV4", DISNEY
-http://204.199.120.34:16123/play/ch03
-#EXTINF:-1 group-title="TV4", ZOOMOO
-http://204.199.120.34:16123/play/ch04
-#EXTINF:-1 group-title="TV4", DISNEY JR
-http://204.199.120.34:16123/play/ch05
-#EXTINF:-1 group-title="TV4", INFANTIL
-http://204.199.120.34:16123/play/ch06
-#EXTINF:-1 group-title="TV4", STAR
-http://204.199.120.34:16123/play/ch07
-#EXTINF:-1 group-title="TV4", FX
-http://204.199.120.34:16123/play/ch08
-#EXTINF:-1 group-title="TV4", EUROCHANNEL
-http://204.199.120.34:16123/play/ch09
-#EXTINF:-1 group-title="TV4", CINECANAL
-http://204.199.120.34:16123/play/ch10
-#EXTINF:-1 group-title="TV4", Film&Arts
-http://204.199.120.34:16123/play/ch11
-#EXTINF:-1 group-title="TV4", CINELATINO
-http://204.199.120.34:16123/play/ch12
-#EXTINF:-1 group-title="TV4", AMC
-http://204.199.120.34:16123/play/ch13
-#EXTINF:-1 group-title="TV4", DHE
-http://204.199.120.34:16123/play/ch14
-#EXTINF:-1 group-title="TV4", TELEPASTO
-http://204.199.120.34:16123/play/ch15
-#EXTINF:-1 group-title="TV4", ESPN
-http://204.199.120.34:16123/play/ch16
-#EXTINF:-1 group-title="TV4", ESPN2
-http://204.199.120.34:16123/play/ch17
-#EXTINF:-1 group-title="TV4", ESPN3
-http://204.199.120.34:16123/play/ch18
-#EXTINF:-1 group-title="TV4", ESPN4
-http://204.199.120.34:16123/play/ch19
-#EXTINF:-1 group-title="TV4", FOX SPORTS 2
-http://204.199.120.34:16123/play/ch20
-#EXTINF:-1 group-title="TV4", FOX SPORTS 3
-http://204.199.120.34:16123/play/ch21
-#EXTINF:-1 group-title="TV4", DISCOVERY
-http://204.199.120.34:16123/play/ch22
-#EXTINF:-1 group-title="TV4", ID
-http://204.199.120.34:16123/play/ch23
-#EXTINF:-1 group-title="TV4", TURBO
-http://204.199.120.34:16123/play/ch24
-#EXTINF:-1 group-title="TV4", DISCOVERY H&H
-http://204.199.120.34:16123/play/ch25
-#EXTINF:-1 group-title="TV4", TLC
-http://204.199.120.34:16123/play/ch26
-#EXTINF:-1 group-title="TV4", EL GOURMET
-http://204.199.120.34:16123/play/ch27
-#EXTINF:-1 group-title="TV4", FOOD NETWORK
-http://204.199.120.34:16123/play/ch28
-#EXTINF:-1 group-title="TV4", ANIMAL PLANET
-http://204.199.120.34:16123/play/ch29
-#EXTINF:-1 group-title="TV4", NATGEO
-http://204.199.120.34:16123/play/ch30
-#EXTINF:-1 group-title="TV4", AGROTENDENCIA
-http://204.199.120.34:16123/play/ch31
-#EXTINF:-1 group-title="TV4", CGTN
-http://204.199.120.34:16123/play/ch32
-#EXTINF:-1 group-title="TV4", MAS CHIC
-http://204.199.120.34:16123/play/ch33
-#EXTINF:-1 group-title="TV4", GLITZ
-http://204.199.120.34:16123/play/ch34
-#EXTINF:-1 group-title="TV4", PASIONES
-http://204.199.120.34:16123/play/ch35
-#EXTINF:-1 group-title="TV4", VE PLUS
-http://204.199.120.34:16123/play/ch36
-#EXTINF:-1 group-title="TV4", TELEISLAS
-http://204.199.120.34:16123/play/ch37
-#EXTINF:-1 group-title="TV4", ENLACE
-http://204.199.120.34:16123/play/ch38
-#EXTINF:-1 group-title="TV4", CRISTOVISION
-http://204.199.120.34:16123/play/ch39
-#EXTINF:-1 group-title="TV4", EWTN
-http://204.199.120.34:16123/play/ch40
-#EXTINF:-1 group-title="TV4", LA KALLE
-http://204.199.120.34:16123/play/ch41
-#EXTINF:-1 group-title="TV4", EL TIEMPO
-http://204.199.120.34:16123/play/ch42
-#EXTINF:-1 group-title="TV4", FRANCE 24
-http://204.199.120.34:16123/play/ch43
-#EXTINF:-1 group-title="TV4", LAS ESTRELLAS
-http://204.199.120.34:16123/play/ch44
-#EXTINF:-1 group-title="TV4", TLNOVELAS
-http://204.199.120.34:16123/play/ch45
-#EXTINF:-1 group-title="TV4", GOLDEN
-http://204.199.120.34:16123/play/ch46
-#EXTINF:-1 group-title="TV4", GOLDEN EDGE
-http://204.199.120.34:16123/play/ch47
-#EXTINF:-1 group-title="TV4", SUN CHANNEL
-http://204.199.120.34:16123/play/ch48
-#EXTINF:-1 group-title="TV4", CINE PREMIUM
-http://204.199.120.34:16123/play/ch49
-#EXTINF:-1 group-title="TV4", LOVE NATURE
-http://204.199.120.34:16123/play/ch50
-#EXTINF:-1 group-title="TV4", CINE HISPANO
-http://204.199.120.34:16123/play/ch51
-#EXTINF:-1 group-title="TV4", CINE FAMILIAR
-http://204.199.120.34:16123/play/ch52
-#EXTINF:-1 group-title="TV4", MIMUSICA REGAETON
-http://204.199.120.34:16123/play/ch53
-#EXTINF:-1 group-title="TV4", MIMUSICA ROMANTICA
-http://204.199.120.34:16123/play/ch54
-#EXTINF:-1 group-title="TV4", MIMUSICA SALSA
-http://204.199.120.34:16123/play/ch55
-#EXTINF:-1 group-title="TV4", MIMUSICA POPULAR
-http://204.199.120.34:16123/play/ch56
-#EXTINF:-1 group-title="TV4", DEPELICULA
-http://204.199.120.34:16123/play/ch57
-#EXTINF:-1 group-title="TV4", CARACOL
-http://204.199.120.34:16123/play/ch58
-#EXTINF:-1 group-title="TV4", RCN
-http://204.199.120.34:16123/play/ch59
-#EXTINF:-1 group-title="TV4", TELECARIBE
-http://204.199.120.34:16123/play/ch60
-#EXTINF:-1 group-title="TV4", SENAL COLOMBIA
-http://204.199.120.34:16123/play/ch61
-#EXTINF:-1 group-title="TV4", INSTITUCIONAL
-http://204.199.120.34:16123/play/ch62
-#EXTINF:-1 group-title="TV4", CANAL 1
-http://204.199.120.34:16123/play/ch63
-#EXTINF:-1 group-title="TV4", TRECE
-http://204.199.120.34:16123/play/ch64
-#EXTINF:-1 group-title="TV4", TELEANTIOQUIA
-http://204.199.120.34:16123/play/ch65
-#EXTINF:-1 group-title="TV4", TELEPACIFICO
-http://204.199.120.34:16123/play/ch66
-#EXTINF:-1 group-title="TV4", TELECAFE
-http://204.199.120.34:16123/play/ch67
-#EXTINF:-1 group-title="TV4", TRO
-http://204.199.120.34:16123/play/ch68
-#EXTINF:-1 group-title="TV4", CONGRESO
-http://204.199.120.34:16123/play/ch69
-#EXTINF:-1 group-title="TV4", CAPITAL
-http://204.199.120.34:16123/play/ch70
-#EXTINF:-1 group-title="TV4", zoom
-http://204.199.120.34:16123/play/ch71
-#EXTINF:-1 group-title="TV4", TELEMEDELLIN
-http://204.199.120.34:16123/play/ch73
-#EXTINF:-1 group-title="TV4", EXTRA
-http://204.199.120.34:16123/play/CH90
-#EXTINF:-1 group-title="TV4", ISAT
-http://204.199.120.34:16123/play/a064
+#EXTINF:-1 group-title="TV5", 002 Dos Kids HD
+http://45.160.15.130:2909/play/002
+#EXTINF:-1 group-title="TV5", 008 BabyFirst V+
+http://45.160.15.130:2909/play/008
+#EXTINF:-1 group-title="TV5", 003 FMH KIDS
+http://45.160.15.130:2909/play/003
+#EXTINF:-1 group-title="TV5", 004 BABY TV
+http://45.160.15.130:2909/play/a15j
+#EXTINF:-1 group-title="TV5", 005 Discovery Kids HD
+http://45.160.15.130:2909/play/005
+#EXTINF:-1 group-title="TV5", 006 Disney Junior V+
+http://45.160.15.130:2909/play/006
+#EXTINF:-1 group-title="TV5", 007 ETC TV
+http://45.160.15.130:2909/play/a166
+#EXTINF:-1 group-title="TV5", 009 Cartoon Network HD
+http://45.160.15.130:2909/play/009
+#EXTINF:-1 group-title="TV5", 010 Disney HD
+http://45.160.15.130:2909/play/010
+#EXTINF:-1 group-title="TV5", 014 Nick HD
+http://45.160.15.130:2909/play/014
+#EXTINF:-1 group-title="TV5", 015 Nick Jr V+
+http://45.160.15.130:2909/play/015
+#EXTINF:-1 group-title="TV5", 016 NTV HD
+http://45.160.15.130:2909/play/016
+#EXTINF:-1 group-title="TV5", 017 HBO HD
+http://45.160.15.130:2909/play/017
+#EXTINF:-1 group-title="TV5", 018 HBO Family HD
+http://45.160.15.130:2909/play/018
+#EXTINF:-1 group-title="TV5", 019 HBO Plus V+
+http://45.160.15.130:2909/play/019
+#EXTINF:-1 group-title="TV5", 020 HBO Xtreme HD
+http://45.160.15.130:2909/play/020
+#EXTINF:-1 group-title="TV5", 021 HBO 2 HD
+http://45.160.15.130:2909/play/021
+#EXTINF:-1 group-title="TV5", 024 Discovery Channel HD
+http://45.160.15.130:2909/play/024
+#EXTINF:-1 group-title="TV5", 025 Animal Planet HD
+http://45.160.15.130:2909/play/025
+#EXTINF:-1 group-title="TV5", 027 Nat Geo HD
+http://45.160.15.130:2909/play/027
+#EXTINF:-1 group-title="TV5", 032 History Channel HD
+http://45.160.15.130:2909/play/032
+#EXTINF:-1 group-title="TV5", 033 History 2 HD
+http://45.160.15.130:2909/play/033
+#EXTINF:-1 group-title="TV5", 042 Enlace V+
+http://45.160.15.130:2909/play/042
+#EXTINF:-1 group-title="TV5", 043 Red de Fe HD
+http://45.160.15.130:2909/play/043
+#EXTINF:-1 group-title="TV5", 044 FTV HD
+http://45.160.15.130:2909/play/044
+#EXTINF:-1 group-title="TV5", 045 Gracia TV HD
+http://45.160.15.130:2909/play/045
+#EXTINF:-1 group-title="TV5", 052 24 Horas HD
+http://45.160.15.130:2909/play/052
+#EXTINF:-1 group-title="TV5", 054 CNN Chile V+
+http://45.160.15.130:2909/play/054
+#EXTINF:-1 group-title="TV5", 062 La Red HD
+http://45.160.15.130:2909/play/062
+#EXTINF:-1 group-title="TV5", 063 TV+ HD
+http://45.160.15.130:2909/play/063
+#EXTINF:-1 group-title="TV5", 064 TVN HD
+http://45.160.15.130:2909/play/064
+#EXTINF:-1 group-title="TV5", 065 Mega HD
+http://45.160.15.130:2909/play/065
+#EXTINF:-1 group-title="TV5", 066 CHV HD
+http://45.160.15.130:2909/play/066
+#EXTINF:-1 group-title="TV5", 067 Canal 13 HD
+http://45.160.15.130:2909/play/067
+#EXTINF:-1 group-title="TV5", 079 ID HD
+http://45.160.15.130:2909/play/079
+#EXTINF:-1 group-title="TV5", 081 Warner Channel HD
+http://45.160.15.130:2909/play/081
+#EXTINF:-1 group-title="TV5", 083 Star CHannel HD
+http://45.160.15.130:2909/play/083
+#EXTINF:-1 group-title="TV5", 085 Sony HD
+http://45.160.15.130:2909/play/085
+#EXTINF:-1 group-title="TV5", 087 AXN HD
+http://45.160.15.130:2909/play/087
+#EXTINF:-1 group-title="TV5", 088 Universal TV HD
+http://45.160.15.130:2909/play/088
+#EXTINF:-1 group-title="TV5", 093 FX HD
+http://45.160.15.130:2909/play/093
+#EXTINF:-1 group-title="TV5", 098 Studio Universal HD
+http://45.160.15.130:2909/play/098
+#EXTINF:-1 group-title="TV5", 099 Paramount HD
+http://45.160.15.130:2909/play/099
+#EXTINF:-1 group-title="TV5", 100 Lifetime V+
+http://45.160.15.130:2909/play/100
+#EXTINF:-1 group-title="TV5", 101 SyFy V+
+http://45.160.15.130:2909/play/101
+#EXTINF:-1 group-title="TV5", 102 A&E HD
+http://45.160.15.130:2909/play/102
+#EXTINF:-1 group-title="TV5", 107 Cinecanal HD
+http://45.160.15.130:2909/play/107
+#EXTINF:-1 group-title="TV5", 108 TNT Series HD
+http://45.160.15.130:2909/play/108
+#EXTINF:-1 group-title="TV5", 109 TNT HD
+http://45.160.15.130:2909/play/109
+#EXTINF:-1 group-title="TV5", 110 TCM V+
+http://45.160.15.130:2909/play/110
+#EXTINF:-1 group-title="TV5", 112 Cinemax HD
+http://45.160.15.130:2909/play/112
+#EXTINF:-1 group-title="TV5", 116 I-Sat V+
+http://45.160.15.130:2909/play/116
+#EXTINF:-1 group-title="TV5", 119 Space HD
+http://45.160.15.130:2909/play/119
+#EXTINF:-1 group-title="TV5", 120 MX Family HD
+http://45.160.15.130:2909/play/120
+#EXTINF:-1 group-title="TV5", 121 MX Classic HD
+http://45.160.15.130:2909/play/121
+#EXTINF:-1 group-title="TV5", 122 MX Prime HD
+http://45.160.15.130:2909/play/122
+#EXTINF:-1 group-title="TV5", 123 MX Old HD
+http://45.160.15.130:2909/play/123
+#EXTINF:-1 group-title="TV5", 124 Canal Dos HD
+http://45.160.15.130:2909/play/124
+#EXTINF:-1 group-title="TV5", 131 ViaX V+
+http://45.160.15.130:2909/play/131
+#EXTINF:-1 group-title="TV5", 132 MTV HD
+http://45.160.15.130:2909/play/132
+#EXTINF:-1 group-title="TV5", 133 Zona Latina V+
+http://45.160.15.130:2909/play/133
+#EXTINF:-1 group-title="TV5", 134 Karavana TV HD
+http://45.160.15.130:2909/play/134
+#EXTINF:-1 group-title="TV5", 135 Karavana Urbano HD
+http://45.160.15.130:2909/play/135
+#EXTINF:-1 group-title="TV5", 137 Old Music HD
+http://45.160.15.130:2909/play/137
+#EXTINF:-1 group-title="TV5", 138 Zoomback HD
+http://45.160.15.130:2909/play/138
+#EXTINF:-1 group-title="TV5", 149 Telemundo V+
+http://45.160.15.130:2909/play/149
+#EXTINF:-1 group-title="TV5", 150 Pasiones HD
+http://45.160.15.130:2909/play/150
+#EXTINF:-1 group-title="TV5", 151 Las Estrellas HD
+http://45.160.15.130:2909/play/151
+#EXTINF:-1 group-title="TV5", 153 TVE V+
+http://45.160.15.130:2909/play/153
+#EXTINF:-1 group-title="TV5", 171 Discovery H&H HD
+http://45.160.15.130:2909/play/171
+#EXTINF:-1 group-title="TV5", 172 TLC SD
+http://45.160.15.130:2909/play/172
+#EXTINF:-1 group-title="TV5", 174 E !
+http://45.160.15.130:2909/play/174
+#EXTINF:-1 group-title="TV5", 177 El Gourmet HD
+http://45.160.15.130:2909/play/177
+#EXTINF:-1 group-title="TV5", 178 Mundo & Sabor HD
+http://45.160.15.130:2909/play/178
+#EXTINF:-1 group-title="TV5", 179 On Tour Channel HD
+http://45.160.15.130:2909/play/179
+#EXTINF:-1 group-title="TV5", 207 Discovery Turbo V+
+http://45.160.15.130:2909/play/207
+#EXTINF:-1 group-title="TV5", 209 Fox Sports 1 HD
+http://45.160.15.130:2909/play/209
+#EXTINF:-1 group-title="TV5", 210 Fox Sports 2 HD
+http://45.160.15.130:2909/play/210
+#EXTINF:-1 group-title="TV5", 211 Fox Sports 3 HD
+http://45.160.15.130:2909/play/211
+#EXTINF:-1 group-title="TV5", 212 ESPN HD
+http://45.160.15.130:2909/play/212
+#EXTINF:-1 group-title="TV5", 214 ESPN 2 HD
+http://45.160.15.130:2909/play/214
+#EXTINF:-1 group-title="TV5", 216 ESPN 3 HD
+http://45.160.15.130:2909/play/216
+#EXTINF:-1 group-title="TV5", 218 ESPN 4 HD
+http://45.160.15.130:2909/play/218
+#EXTINF:-1 group-title="TV5", 230 Canal del Caballo HD
+http://45.160.15.130:2909/play/230
+#EXTINF:-1 group-title="TV5", 231 Fitmaxx HD
+http://45.160.15.130:2909/play/231
+#EXTINF:-1 group-title="TV5", 232 Sport EXT HD
+http://45.160.15.130:2909/play/232
+#EXTINF:-1 group-title="TV5", 233 TNT SPORTS HD
+http://45.160.15.130:2909/play/233
+#EXTINF:-1 group-title="TV5", 234 TNT Sports 2 V+
+http://45.160.15.130:2909/play/234
+#EXTINF:-1 group-title="TV5", 235 TNT Sports 3 V+
+http://45.160.15.130:2909/play/235
+#EXTINF:-1 group-title="TV5", 236 Teletrak
+http://45.160.15.130:2909/play/236
+#EXTINF:-1 group-title="TV5", CARTOONITO
+http://45.160.15.130:2909/play/a15m
+#EXTINF:-1 group-title="TV5", CDO PREMIUN
+http://45.160.15.130:2909/play/a15n
+#EXTINF:-1 group-title="TV5", COMEDY CENTRAL HD
+http://45.160.15.130:2909/play/a15s
+#EXTINF:-1 group-title="TV5", DHE HD
+http://45.160.15.130:2909/play/a15u
+#EXTINF:-1 group-title="TV5", DISCOVERY THEATER HD
+http://45.160.15.130:2909/play/a15x
+#EXTINF:-1 group-title="TV5", DISCOVERY WORLD HD
+http://45.160.15.130:2909/play/a15z
+#EXTINF:-1 group-title="TV5", DOS
+http://45.160.15.130:2909/play/a162
+#EXTINF:-1 group-title="TV5", EVENTOS
+http://45.160.15.130:2909/play/a167
+#EXTINF:-1 group-title="TV5", FMH FAMILY
+http://45.160.15.130:2909/play/a169
+#EXTINF:-1 group-title="TV5", FMH MOVIES
+http://45.160.15.130:2909/play/a16b
+#EXTINF:-1 group-title="TV5", FMH REWIND
+http://45.160.15.130:2909/play/a16c
+#EXTINF:-1 group-title="TV5", KANAL D DRAMA HD
+http://45.160.15.130:2909/play/a16p
+#EXTINF:-1 group-title="TV5", LADIES
+http://45.160.15.130:2909/play/a16t
+#EXTINF:-1 group-title="TV5", LOVE NATURE HD
+http://45.160.15.130:2909/play/a16v
+#EXTINF:-1 group-title="TV5", MX SERIES
+http://45.160.15.130:2909/play/a172
+#EXTINF:-1 group-title="TV5", REC TV
+http://45.160.15.130:2909/play/a17b
+#EXTINF:-1 group-title="TV5", SPOR TEXT
+http://45.160.15.130:2909/play/a17f
+#EXTINF:-1 group-title="TV5", SUN CHANNEL HD
+http://45.160.15.130:2909/play/a17i
+#EXTINF:-1 group-title="TV5", TELENOVELAS
+http://45.160.15.130:2909/play/a17l
