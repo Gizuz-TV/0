@@ -1,136 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="TV4", LAS ESTRELLAS
-https://notabasica.com/hlsweb.php?c=https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
 #EXTINF:-1 group-title="TV4", AZTECA 7
-https://notabasica.com/hlsweb.php?c=https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="TV4", AZTECA UNO
-https://notabasica.com/hlsweb.php?c=https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 group-title="TV4", BABYTV
-http://204.199.120.34:16123/play/ch01
-#EXTINF:-1 group-title="TV4", DISCOVERY_KIDS
-http://204.199.120.34:16123/play/ch02
-#EXTINF:-1 group-title="TV4", DISNEY
-http://204.199.120.34:16123/play/ch03
-#EXTINF:-1 group-title="TV4", ZOOMOO
-http://204.199.120.34:16123/play/ch04
-#EXTINF:-1 group-title="TV4", DISNEY JR
-http://204.199.120.34:16123/play/ch05
-#EXTINF:-1 group-title="TV4", INFANTIL
-http://204.199.120.34:16123/play/ch06
-#EXTINF:-1 group-title="TV4", STAR
-http://204.199.120.34:16123/play/ch07
-#EXTINF:-1 group-title="TV4", FX
-http://204.199.120.34:16123/play/ch08
-#EXTINF:-1 group-title="TV4", EUROCHANNEL
-http://204.199.120.34:16123/play/ch09
-#EXTINF:-1 group-title="TV4", CINECANAL
-http://204.199.120.34:16123/play/ch10
-#EXTINF:-1 group-title="TV4", Film&Arts
-http://204.199.120.34:16123/play/ch11
-#EXTINF:-1 group-title="TV4", CINELATINO
-http://204.199.120.34:16123/play/ch12
-#EXTINF:-1 group-title="TV4", AMC
-http://204.199.120.34:16123/play/ch13
-#EXTINF:-1 group-title="TV4", DHE
-http://204.199.120.34:16123/play/ch14
-#EXTINF:-1 group-title="TV4", TELEPASTO
-http://204.199.120.34:16123/play/ch15
-#EXTINF:-1 group-title="TV4", DISCOVERY
-http://204.199.120.34:16123/play/ch22
-#EXTINF:-1 group-title="TV4", ID
-http://204.199.120.34:16123/play/ch23
-#EXTINF:-1 group-title="TV4", TURBO
-http://204.199.120.34:16123/play/ch24
-#EXTINF:-1 group-title="TV4", DISCOVERY H&H
-http://204.199.120.34:16123/play/ch25
-#EXTINF:-1 group-title="TV4", TLC
-http://204.199.120.34:16123/play/ch26
-#EXTINF:-1 group-title="TV4", EL GOURMET
-http://204.199.120.34:16123/play/ch27
-#EXTINF:-1 group-title="TV4", FOOD NETWORK
-http://204.199.120.34:16123/play/ch28
-#EXTINF:-1 group-title="TV4", ANIMAL PLANET
-http://204.199.120.34:16123/play/ch29
-#EXTINF:-1 group-title="TV4", NATGEO
-http://204.199.120.34:16123/play/ch30
-#EXTINF:-1 group-title="TV4", AGROTENDENCIA
-http://204.199.120.34:16123/play/ch31
-#EXTINF:-1 group-title="TV4", CGTN SUB SPA
-http://204.199.120.34:16123/play/ch32
-#EXTINF:-1 group-title="TV4", MAS CHIC
-http://204.199.120.34:16123/play/ch33
-#EXTINF:-1 group-title="TV4", PASIONES
-http://204.199.120.34:16123/play/ch35
-#EXTINF:-1 group-title="TV4", VE PLUS
-http://204.199.120.34:16123/play/ch36
-#EXTINF:-1 group-title="TV4", ENLACE
-http://204.199.120.34:16123/play/ch38
-#EXTINF:-1 group-title="TV4", EWTN
-http://204.199.120.34:16123/play/ch40
-#EXTINF:-1 group-title="TV4", EL TIEMPO
-http://204.199.120.34:16123/play/ch42
-#EXTINF:-1 group-title="TV4", FRANCE 24
-http://204.199.120.34:16123/play/ch43
-#EXTINF:-1 group-title="TV4", LAS ESTRELLAS
-http://204.199.120.34:16123/play/ch44
-#EXTINF:-1 group-title="TV4", TLNOVELAS
-http://204.199.120.34:16123/play/ch45
-#EXTINF:-1 group-title="TV4", GOLDEN
-http://204.199.120.34:16123/play/ch46
-#EXTINF:-1 group-title="TV4", GOLDEN EDGE
-http://204.199.120.34:16123/play/ch47
-#EXTINF:-1 group-title="TV4", SUN CHANNEL
-http://204.199.120.34:16123/play/ch48
-#EXTINF:-1 group-title="TV4", CINE PREMIUM
-http://204.199.120.34:16123/play/ch49
-#EXTINF:-1 group-title="TV4", LOVE NATURE
-http://204.199.120.34:16123/play/ch50
-#EXTINF:-1 group-title="TV4", CINE HISPANO
-http://204.199.120.34:16123/play/ch51
-#EXTINF:-1 group-title="TV4", CINE FAMILIAR
-http://204.199.120.34:16123/play/ch52
-#EXTINF:-1 group-title="TV4", MIMUSICA REGAETON
-http://204.199.120.34:16123/play/ch53
-#EXTINF:-1 group-title="TV4", MIMUSICA ROMANTICA
-http://204.199.120.34:16123/play/ch54
-#EXTINF:-1 group-title="TV4", MIMUSICA SALSA
-http://204.199.120.34:16123/play/ch55
-#EXTINF:-1 group-title="TV4", MIMUSICA POPULAR
-http://204.199.120.34:16123/play/ch56
-#EXTINF:-1 group-title="TV4", DEPELICULA
-http://204.199.120.34:16123/play/ch57
-#EXTINF:-1 group-title="TV4", CARACOL
-http://204.199.120.34:16123/play/ch58
-#EXTINF:-1 group-title="TV4", RCN
-http://204.199.120.34:16123/play/ch59
-#EXTINF:-1 group-title="TV4", TELECARIBE
-http://204.199.120.34:16123/play/ch60
-#EXTINF:-1 group-title="TV4", SENAL COLOMBIA
-http://204.199.120.34:16123/play/ch61
-#EXTINF:-1 group-title="TV4", INSTITUCIONAL
-http://204.199.120.34:16123/play/ch62
-#EXTINF:-1 group-title="TV4", CANAL 1
-http://204.199.120.34:16123/play/ch63
-#EXTINF:-1 group-title="TV4", TRECE
-http://204.199.120.34:16123/play/ch64
-#EXTINF:-1 group-title="TV4", TELEANTIOQUIA
-http://204.199.120.34:16123/play/ch65
-#EXTINF:-1 group-title="TV4", TELEPACIFICO
-http://204.199.120.34:16123/play/ch66
-#EXTINF:-1 group-title="TV4", TELECAFE
-http://204.199.120.34:16123/play/ch67
-#EXTINF:-1 group-title="TV4", TRO
-http://204.199.120.34:16123/play/ch68
-#EXTINF:-1 group-title="TV4", CONGRESO
-http://204.199.120.34:16123/play/ch69
-#EXTINF:-1 group-title="TV4", CAPITAL
-http://204.199.120.34:16123/play/ch70
-#EXTINF:-1 group-title="TV4", ZOOM
-http://204.199.120.34:16123/play/ch71
-#EXTINF:-1 group-title="TV4", TELEMEDELLIN
-http://204.199.120.34:16123/play/ch73
-#EXTINF:-1 group-title="TV4", EXTRA
-http://204.199.120.34:16123/play/CH90
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1,A&E HD
 http://190.61.46.126:8000/play/a00l/index.m3u8
 #EXTINF:-1,AMC HD
@@ -325,3 +199,111 @@ http://190.61.46.126:8000/play/a019/index.m3u8
 http://190.61.46.126:8000/play/a006/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://190.61.46.126:8000/play/a00n/index.m3u8
+#EXTINF:-1,A&E HD
+http://45.189.148.24:8000/play/a014/index.m3u8
+#EXTINF:-1,AXN HD
+http://45.189.148.24:8000/play/a013/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://45.189.148.24:8000/play/a001/index.m3u8
+#EXTINF:-1,BANDAMAX
+http://45.189.148.24:8000/play/a021/index.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://45.189.148.24:8000/play/a00l/index.m3u8
+#EXTINF:-1,CARTOONITO
+http://45.189.148.24:8000/play/a00p/index.m3u8
+#EXTINF:-1,CLOVER HD
+http://45.189.148.24:8000/play/a017/index.m3u8
+#EXTINF:-1,CNN
+http://45.189.148.24:8000/play/a008/index.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://45.189.148.24:8000/play/a009/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://45.189.148.24:8000/play/a016/index.m3u8
+#EXTINF:-1,DREAMWORKS HD
+http://45.189.148.24:8000/play/a00m/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://45.189.148.24:8000/play/a002/index.m3u8
+#EXTINF:-1,Discovery HD
+http://45.189.148.24:8000/play/a003/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://45.189.148.24:8000/play/a004/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://45.189.148.24:8000/play/a005/index.m3u8
+#EXTINF:-1,ESPN
+http://45.189.148.24:8000/play/a018/index.m3u8
+#EXTINF:-1,FILMS & ARTS
+http://45.189.148.24:8000/play/a025/index.m3u8
+#EXTINF:-1,FOX SPORT DEPORTES
+http://45.189.148.24:8000/play/a00j/index.m3u8
+#EXTINF:-1,FOX SPORT PREMIUM
+http://45.189.148.24:8000/play/a027/index.m3u8
+#EXTINF:-1,FX HD
+http://45.189.148.24:8000/play/a00i/index.m3u8
+#EXTINF:-1,Food Network HD
+http://45.189.148.24:8000/play/a006/index.m3u8
+#EXTINF:-1,GOLDEN
+http://45.189.148.24:8000/play/a00c/index.m3u8
+#EXTINF:-1,GOLDEN PREMIER HD
+http://45.189.148.24:8000/play/a00b/index.m3u8
+#EXTINF:-1,Golden Edge HD
+http://45.189.148.24:8000/play/a00e/index.m3u8
+#EXTINF:-1,Golden Plus HD
+http://45.189.148.24:8000/play/a00d/index.m3u8
+#EXTINF:-1,HBO
+http://45.189.148.24:8000/play/a023/index.m3u8
+#EXTINF:-1,HISTORY 2 HD
+http://45.189.148.24:8000/play/a00x/index.m3u8
+#EXTINF:-1,HISTORY HD
+http://45.189.148.24:8000/play/a00w/index.m3u8
+#EXTINF:-1,MTV HD
+http://45.189.148.24:8000/play/a00a/index.m3u8
+#EXTINF:-1,MTV HITS
+http://45.189.148.24:8000/play/a019/index.m3u8
+#EXTINF:-1,NICK HD
+http://45.189.148.24:8000/play/a00n/index.m3u8
+#EXTINF:-1,NICK JR
+http://45.189.148.24:8000/play/a00o/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://45.189.148.24:8000/play/a007/index.m3u8
+#EXTINF:-1,SONY HD
+http://45.189.148.24:8000/play/a00y/index.m3u8
+#EXTINF:-1,SONY MOVIES HD
+http://45.189.148.24:8000/play/a00z/index.m3u8
+#EXTINF:-1,SPACE HD
+http://45.189.148.24:8000/play/a00f/index.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://45.189.148.24:8000/play/a011/index.m3u8
+#EXTINF:-1,TBS Very Funny HD
+http://45.189.148.24:8000/play/a015/index.m3u8
+#EXTINF:-1,TLC
+http://45.189.148.24:8000/play/a022/index.m3u8
+#EXTINF:-1,TLNOVELAS
+http://45.189.148.24:8000/play/a020/index.m3u8
+#EXTINF:-1,TLNOVELAS1
+http://45.189.148.24:8000/play/a028/index.m3u8
+#EXTINF:-1,TNT HD
+http://45.189.148.24:8000/play/a00g/index.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://45.189.148.24:8000/play/a00h/index.m3u8
+#EXTINF:-1,TOONCAST
+http://45.189.148.24:8000/play/a00q/index.m3u8
+#EXTINF:-1,TUDN HD
+http://45.189.148.24:8000/play/a00k/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA
+http://45.189.148.24:8000/play/a024/index.m3u8
+#EXTINF:-1,UNIVISION EAST
+http://45.189.148.24:8000/play/a029/index.m3u8
+#EXTINF:-1,Universal Channel HD
+http://45.189.148.24:8000/play/a010/index.m3u8
+#EXTINF:-1,VIWIX TV ACCION
+http://45.189.148.24:8000/play/a00r/index.m3u8
+#EXTINF:-1,VIWIX TV ESTRENOS
+http://45.189.148.24:8000/play/a00s/index.m3u8
+#EXTINF:-1,VIWIX TV MUSIC
+http://45.189.148.24:8000/play/a00v/index.m3u8
+#EXTINF:-1,VIWIX TV SERIES
+http://45.189.148.24:8000/play/a00u/index.m3u8
+#EXTINF:-1,VIWIX TV TERROR
+http://45.189.148.24:8000/play/a00t/index.m3u8
+#EXTINF:-1,WARNER HD
+http://45.189.148.24:8000/play/a012/index.m3u8
