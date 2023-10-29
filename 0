@@ -912,9 +912,9 @@ http://38.41.8.1:8000/play/a07w
 http://38.41.8.1:8000/play/a07z
 #EXTINF:-1,Vive TV
 http://38.41.8.1:8000/play/a03j
-#EXTINF:-1,Warner
+#EXTINF:0,Warner
 http://38.41.8.1:8000/play/a07n
-#EXTINF:-1,Warner Channel HD
+#EXTINF:0,Warner Channel HD
 http://38.41.8.1:8000/play/a008
 #EXTINF:-1,Win
 http://38.41.8.1:8000/play/a061
