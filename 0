@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
-http://notabasica.com/sr_regioooooo.php
-#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
-http://notabasica.com/sr_regioooooo.php
-
 #EXTINF:-1 group-title="TV4", LAS ESTRELLAS
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
 #EXTINF:-1 group-title="TV4", AZTECA 7
