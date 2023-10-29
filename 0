@@ -1,5 +1,11 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://scontent.fmtt1-1.fna.fbcdn.net/v/t39.30808-6/391730151_122112744368057895_9135903699810236279_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VKmBdWzhNOYAX9CQ4Vi&_nc_ht=scontent.fmtt1-1.fna&oh=00_AfBV0NJozgMLhx4aqjzBjryK8LXBwAhyA3s5m7bMZohneg&oe=6541A0D8", Gizuz-TV
+#EXTINF:0 tvg-logo="http:///imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
+http://notabasica.com/sr_regioooooo.php
+#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @RegioPlay.Oficial
+http://notabasica.com/sr_regioooooo.php
+#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
+http://notabasica.com/sr_regioooooo.php
+#EXTINF:0 tvg-logo="http:///msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioGrupo
 http://notabasica.com/sr_regioooooo.php
 
 #EXTINF:-1 group-title="TV4", LAS ESTRELLAS
