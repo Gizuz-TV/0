@@ -28,6 +28,12 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 #EXTINF:0,AZ INTERNACIONAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
+#EXTINF:0,AZ GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:0,AZ GOLDEN PREMIER
+https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
+#EXTINF:0,AZ CINEMA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1, A&E
 http://138.118.105.190:8000/play/a0bv/index.m3u8
 #EXTINF:-1, BOOMERAN
