@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,#EXTM3U
-#EXTINF:0,tvg-logo="https://scontent.fmtt1-1.fna.fbcdn.net/v/t39.30808-6/391730151_122112744368057895_9135903699810236279_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VKmBdWzhNOYAX9CQ4Vi&_nc_ht=scontent.fmtt1-1.fna&oh=00_AfBV0NJozgMLhx4aqjzBjryK8LXBwAhyA3s5m7bMZohneg&oe=6541A0D8", Gizuz-TV & RADIO
+#EXTINF:0,tvg-logo="https://scontent.fmtt1-1.fna.fbcdn.net/v/t39.30808-6/428632792_782122497289001_796965731831692566_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=3635dc&_nc_ohc=71K_NDRc8UYAX8s1WR8&_nc_ht=scontent.fmtt1-1.fna&oh=00_AfCo_BmGLYvyzZxz-ohZp0y7I1IjXcoQhVDaQI6R9_9sHg&oe=65DD8CE5", Gizuz-TV & RADIO
 https://stream.zeno.fm/1oubyxkatphtv
 #EXTINF:0,LAS ESTRELLAS
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
@@ -8,6 +8,14 @@ https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:0,AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:0,ESTRELLA TV
+https://notabasica.com/hlsweb.php?c=https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:0,CANAL 6
+https://notabasica.com/hlsweb.php?c=https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,NET TV
+https://notabasica.com/hlsweb.php?c=https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:0,TELE RITMO
+https://notabasica.com/hlsweb.php?c=https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1, A&E
 http://138.118.105.190:8000/play/a0bv/index.m3u8
 #EXTINF:-1, BOOMERAN
