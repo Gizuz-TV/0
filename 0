@@ -21,9 +21,13 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/.m3u8
 #EXTINF:0,WOW
 https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
 #EXTINF:0,NET WORD
-https://notabasica.com/hlsweb.php?c=https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
 #EXTINF:0,MEGA
-https://notabasica.com/hlsweb.php?c=https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:0,AZ CORAZON
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:0,AZ INTERNACIONAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
 #EXTINF:-1, A&E
 http://138.118.105.190:8000/play/a0bv/index.m3u8
 #EXTINF:-1, BOOMERAN
