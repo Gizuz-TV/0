@@ -2,37 +2,37 @@
 #EXTINF:0,#EXTM3U
 #EXTINF:-1,tvg-logo="https://scontent.fmtt1-1.fna.fbcdn.net/v/t1.6435-9/101051041_2634002306840547_7096701224845574144_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=fD3DhnxjdYYAX_C-0Gd&_nc_ht=scontent.fmtt1-1.fna&oh=00_AfA_GoGg2DnUg1Nvh2AkCVD0oyb9PssvYiYR4HBncJIziA&oe=66042DE8", Gizuz-Kay
 https://stream.zeno.fm/1oubyxkatphtv
-#EXTINF:0, LAS ESTRELLAS
+#EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
-#EXTINF:0, AZTECA 7
+#EXTINF:0,tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjvPPBbHvjXIzKZOGX1Uf2UaC7lupeDBtEpMbb9QWMxihS6Z0BzKImacATZS7tZ0wl3j1FG6rsr3SD6Vm2PvSBCpGPaTTiToS5gfyF5-QspyQbG6SgnBShV_Y46c_79VLCDNxFFN7kHisxd-rLJhd1-J3KnQNKHMEWK7IYSsfAurSU38AJznN8pkWZj9DYd", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:0, AZTECA UNO
+#EXTINF:0,tvg-logo="https://media.licdn.com/dms/image/C4E0BAQE9JLEFNVIlbQ/company-logo_200_200/0/1569362532917?e=2147483647&v=beta&t=Ls2x-y6kjGbA5kUD9ZFR9Twu_X7vf8IKq7P3FZGsjCc", AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:0, ESTRELLA TV
+#EXTINF:0,tvg-logo="https://logo.lusha.co/d/company_37227128_logo.jpg", ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:0, CANAL 6
+#EXTINF:0,tvg-logo="https://media.licdn.com/dms/image/C4E0BAQGipDgKKgdWJw/company-logo_200_200/0/1570809309732?e=2147483647&v=beta&t=vaWpGxuSdGmX-m6qPY7CImyoSp343xzFOmoMvQBnmbc", CANAL 6
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0, NET TV
+#EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Net_TV_logo.png/768px-Net_TV_logo.png", NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:0, TELE RITMO
+#EXTINF:0,tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiGsfNhQRRv4bPBxaFVYy6eyBLqMGggR_qnGsH_sbqWQ7wkOFD2Oyj6lT3dR4RXwDaB5bUxkKrZWZ64-GWdcZyDc65en1V1S6kJEAmdpoks_pJ7sTgD6n9CmPuWxmT0uOhBgPbuDFRwx193orlIXw3FSd3HsZkWCDYqJUKwXjd73GTl9qtiuFRx1NI8aO6R", TELE RITMO
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0, TOP LATINO
+#EXTINF:0,tvg-logo="https://photocall.cc/img/png/toplatino.png", TOP LATINO
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/.m3u8
-#EXTINF:0, WOW
+#EXTINF:0,tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgauuB0-Vo1HDIz7g4w8LIZ_fOTdonPklFtgQvuHuu_U3ptxpcGiYi9S5IPxaElE06P1pf8sL1xdfeVDY7gELp4AWxNMjHJ3DJaeuAZm7ho7jMJDuVMkeVQE5rCeK-ZPdnb_GL-AWKGmqsW59JxYz8OQVRN-74PQz7Ca9eaXBR1HG1Yjsg65YewkpYMx5lL", WOW
 https://dlir9brl2ge8j.cloudfront.net/playlist.m3u8
-#EXTINF:0, NET WORD
+#EXTINF:0,tvg-logo="https://play-lh.googleusercontent.com/PY_gyhVYlhbJsUpRAMTZdNJbnM4-oUnjH3gIg-WAvQMSfOzBY-4ZdWtNfcKygKjJw64", NET WORD
 https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8
-#EXTINF:0, MEGA
+#EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logotipo_de_Mega_%282015-2020%29.svg/800px-Logotipo_de_Mega_%282015-2020%29.svg.png", MEGA
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-#EXTINF:0, AZ CORAZON
+#EXTINF:0,tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
-#EXTINF:0, AZ INTERNACIONAL
+#EXTINF:0,tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png", AZ INTERNACIONAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828
-#EXTINF:0, GOLDEN PLUS
+#EXTINF:0,tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2qFlFV3NZaCw7URyeIuFi33_TBrG-OI-Frm4dok3ci1UaZ4Ev5CKduyScYpz7l4tmxw-JCIeXBajM2pw5Oyqc5MFYTOrThlhdnzaxriIMA5z7i1dXnzYWRzcGMlru-yixvdaZPVrIJsPVfYqgE7dG25meRHex8etzoyvVIEUDWWUqzPazJJvmKMN6/s1600/golden-plus.png", GOLDEN PLUS
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:0, GOLDEN PREMIER
+#EXTINF:0,tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", GOLDEN PREMIER
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:0, AZ CINEMA
+#EXTINF:0,tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png", AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 #EXTINF:-1 group-title="TV2", AMC
 http://190.149.66.90:4000/play/a016/index.m3u8
