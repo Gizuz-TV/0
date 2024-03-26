@@ -42,9 +42,9 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:0,tvg-logo=https://i.imgur.com/uZdVSoW.png", CANAL 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:0,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
+#EXTINF:0,tvg-logo=https://1.bp.blogspot.com/-JIT9WNIXU7o/X8KMqyMKEyI/AAAAAAAA7UA/vvyQuT2RKcwkEhk64G-C-RNc1TdeK6kogCLcBGAsYHQ/s0/Cinecanal2018.png", CINECANAL
 http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
-#EXTINF:0,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png", HISTORY
+#EXTINF:0,tvg-logo=https://static.wikia.nocookie.net/tvcable/images/4/4c/History_%282021%29.png/revision/latest?cb=20220215204609&path-prefix=es", HISTORY
 http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 group-title="TV2", AMC
 http://190.149.66.90:4000/play/a016/index.m3u8
