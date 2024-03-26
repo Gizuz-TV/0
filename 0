@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,#EXTM3U
-#EXTINF:-1,tvg-logo="https://scontent.fmtt1-1.fna.fbcdn.net/v/t1.6435-9/101051041_2634002306840547_7096701224845574144_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=fD3DhnxjdYYAX_C-0Gd&_nc_ht=scontent.fmtt1-1.fna&oh=00_AfA_GoGg2DnUg1Nvh2AkCVD0oyb9PssvYiYR4HBncJIziA&oe=66042DE8", Gizuz-Kay
+#EXTINF:-1,tvg-logo="https://www.facebook.com/photo/?fbid=122166919820027147&set=a.122142105662027147&locale=es_LA", Gizuz-Kay
 https://stream.zeno.fm/1oubyxkatphtv
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
@@ -34,6 +34,18 @@ https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:0,tvg-logo="https://cdn.mitvstatic.com/channels/cl_az-cinema_m.png", AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:0,tvg-logo=https://i.imgur.com/Og17U9N.png",ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0,tvg-logo=https://i.imgur.com/TWk9gfd.png",a+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:0,tvg-logo=https://i.imgur.com/4DfnOTA.png",BANDAMAX
+https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:0,tvg-logo=https://i.imgur.com/uZdVSoW.png",CANAL 5
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:0,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",CINECANAL
+http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
+#EXTINF:0,tvg-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png",HISTORY
+http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
 #EXTINF:-1 group-title="TV2", AMC
 http://190.149.66.90:4000/play/a016/index.m3u8
 #EXTINF:-1 group-title="TV2", AMC HD
