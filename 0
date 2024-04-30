@@ -38,26 +38,28 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:0,tvg-logo=https://i.imgur.com/TWk9gfd.png", a+
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/4DfnOTA.png", BANDAMAX
+#EXTINF:0 tvg-logo=https://i.imgur.com/4DfnOTA.png", Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
-#EXTINF:0 tvg-logo=https://i.imgur.com/uZdVSoW.png", CANAL 5
+#EXTINF:0 tvg-logo=https://i.imgur.com/uZdVSoW.png", Canal 5
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-#EXTINF:0 tvg-logo=https://instagram.fmtt1-1.fna.fbcdn.net/v/t51.29350-15/437011234_1155719242249918_31778723077477301_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4zMjB4MzIwLnNkci5mMjkzNTAifQ&_nc_ht=instagram.fmtt1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=zQuFuHhXOP0Ab7p33Np&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfC92Eu-FIyOgo2uoLI6AE2KFXf04_H9efaYWuU9hItBmg&oe=66212E29&_nc_sid=cf751b",CINECANAL
-http://stream.flynetwifi.com:1935/live/mobile-016/playlist.m3u8
-#EXTINF:0 tvg-logo=https://instagram.fmtt1-1.fna.fbcdn.net/v/t51.29350-15/435520551_364798315994200_8973014245192635891_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4zMjB4MzM2LnNkci5mMjkzNTAifQ&_nc_ht=instagram.fmtt1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=yeu6F8nYd5YAb4ItYpF&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfBInwmN57H1ailrXGDcihouPrYPgMDrTDi-c5EQfw1v6A&oe=661D5861&_nc_sid=cf751b",History
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/L1h6W5Q.png", AMC en Espanol
-http://stream.flynetwifi.com:1935/live/mobile-079/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/bZWoDTg.png", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/xA0l7DP.png",Fox Sports
-http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
-#EXTINF:0 tvg-logo="https://instagram.fmtt1-1.fna.fbcdn.net/v/t51.29350-15/437485099_401128926054117_8565391439655702009_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi41MDJ4NTAyLnNkci5mMjkzNTAifQ&_nc_ht=instagram.fmtt1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=y3CSeYiFF20Ab4Ct5a6&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfDsFA2cPt1dQYWSmekcviEYng99MVgSnmtm5gkTkoshhQ&oe=662158B0&_nc_sid=cf751b",Foro
+#EXTINF:0 tvg-logo="", Foro
 https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
-#EXTINF:0 tvg-logo="https://instagram.fmtt1-1.fna.fbcdn.net/v/t51.29350-15/437116303_1153852062731656_4143718225985982460_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4zMjB4MTY4LnNkci5mMjkzNTAifQ&_nc_ht=instagram.fmtt1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=8hNkgM7Xub4Ab6BBBTs&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfBwIGt2V1CZNfJuCCV7erPOwTGtaLkKKWdhi4zGlwLTcA&oe=66215A5F&_nc_sid=cf751b",Lifetime
-http://stream.flynetwifi.com:1935/live/mobile-154/playlist.m3u8
-#EXTINF:0 tvg-logo="https://instagram.fmtt1-1.fna.fbcdn.net/v/t51.29350-15/437607547_1489194345002482_3870030107807598089_n.webp?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4zMjB4MTY4LnNkci5mMjkzNTAifQ&_nc_ht=instagram.fmtt1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=syrLYIM9XJYAb7F2rue&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfBZxjDej36MDUn8DwaTjT6fjGv4a8MeAFLLYCf-82_PpA&oe=66215D20&_nc_sid=cf751b",Space
-http://stream.flynetwifi.com:1935/live/mobile-003/playlist.m3u8
+#EXTINF:0 tvg-logo="", Telever
+https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+#EXTINF:0 tvg-logo="", TVT
+https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
+#EXTINF:0 tvg-logo="", Unicable
+https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
+#EXTINF:0 tvg-logo="", Teleformula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:0 tvg-logo="", Milenio
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:0 tvg-logo="", Imagen tv
+https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
+#EXTINF:0 tvg-logo="", Distrito Comedia
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-shift="-4"  group-title="TV 2", A&E
 http://notabasica.com/php/SR_REGIO_601032_/tv2.php?c=a052&f=.m3u8&k=SrRegio
 #EXTINF:-1 tvg-shift="-4"  group-title="TV 2", A&E HD
