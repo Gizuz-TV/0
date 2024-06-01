@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:0,#EXTM3U
 #EXTINF:0,tvg-logo="https://avatars.githubusercontent.com/u/147122709?v=4", Gizuz-Kay
 https://stream.zeno.fm/1oubyxkatphtv
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS
@@ -43,8 +42,6 @@ https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:0 tvg-logo="", Milenio
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
-#EXTINF:0 tvg-logo="", AMC
-https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
 #EXTINF:0 tvg-logo="", Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
