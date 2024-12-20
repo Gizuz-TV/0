@@ -3,6 +3,8 @@
 https://stream.zeno.fm/1oubyxkatphtv
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
+#EXTINF:0 tvg-logo=https://i.imgur.com/uZdVSoW.png", Canal 5
+http://181.78.105.146:2000/play/a038/index.m3u8
 #EXTINF:0,tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjvPPBbHvjXIzKZOGX1Uf2UaC7lupeDBtEpMbb9QWMxihS6Z0BzKImacATZS7tZ0wl3j1FG6rsr3SD6Vm2PvSBCpGPaTTiToS5gfyF5-QspyQbG6SgnBShV_Y46c_79VLCDNxFFN7kHisxd-rLJhd1-J3KnQNKHMEWK7IYSsfAurSU38AJznN8pkWZj9DYd", AZTECA 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:0,tvg-logo="https://media.licdn.com/dms/image/C4E0BAQE9JLEFNVIlbQ/company-logo_200_200/0/1569362532917?e=2147483647&v=beta&t=Ls2x-y6kjGbA5kUD9ZFR9Twu_X7vf8IKq7P3FZGsjCc", AZTECA UNO
@@ -35,6 +37,8 @@ https://tv1.strm2234.xyz/space/index.m3u8
 https://tv1.strm2234.xyz/tnt/index.m3u8
 #EXTINF:0, HBO
 https://tv1.strm2234.xyz/hbo/index.m3u8
+#EXTINF:0, Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:0, CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
