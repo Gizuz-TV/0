@@ -33,186 +33,96 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0, Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0, Space
-https://tv1.strm2234.xyz/space/index.m3u8
-#EXTINF:0, TNT
-https://tv1.strm2234.xyz/tnt/index.m3u8
-#EXTINF:0, HBO
-https://tv1.strm2234.xyz/hbo/index.m3u8
 #EXTINF:0, CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
 
-#EXTINF:-1,A&E HD
-171.22.165.241:8888/play/a0ms
-#EXTINF:-1,A&E HD
-171.22.165.241:8888/play/a0k2
-#EXTINF:-1,AMC HD
-171.22.165.241:8888/play/a0kp
-#EXTINF:-1,AMC HD
-171.22.165.241:8888/play/a0ln
-#EXTINF:-1,ANIMAL PLANET HD
-171.22.165.241:8888/play/a0l4
-#EXTINF:-1,AXN HD
-171.22.165.241:8888/play/a0mv
-#EXTINF:-1,CANAL DE DRAMA
-171.22.165.241:8888/play/a0md
-#EXTINF:-1,CINECANAL
-171.22.165.241:8888/play/a0l3
-#EXTINF:-1,CINEMAX HD
-171.22.165.241:8888/play/a0kf
-#EXTINF:-1,Cartoon Network HD
-171.22.165.241:8888/play/a0g0
-#EXTINF:-1,Cartoon Network HD
-171.22.165.241:8888/play/a0lq
-#EXTINF:-1,Cartoon Network HD
-171.22.165.241:8888/play/a0if
-#EXTINF:-1,Cinecanal HD
-171.22.165.241:8888/play/a0lm
-#EXTINF:-1,DISCOVERY CHANNEL
-171.22.165.241:8888/play/a0ng
-#EXTINF:-1,Discovery H&H
-171.22.165.241:8888/play/a0mn
-#EXTINF:-1,Discovery Kids HD
-171.22.165.241:8888/play/a0hp
-#EXTINF:-1,Discovery Theater HD
-171.22.165.241:8888/play/a0hq
-#EXTINF:-1,Discovery World HD
-171.22.165.241:8888/play/a0ll
-#EXTINF:-1,Disney HD
-171.22.165.241:8888/play/a0lj
-#EXTINF:-1,E! HD
-171.22.165.241:8888/play/a0lf
-#EXTINF:-1,ECUAVISA HD
-171.22.165.241:8888/play/a0na
-#EXTINF:-1,EL CANAL DEL FUTBOL
-171.22.165.241:8888/play/a0m7
-#EXTINF:-1,ESPN 2 HD
-171.22.165.241:8888/play/a0nh
-#EXTINF:-1,ESPN 4 HD
-171.22.165.241:8888/play/a0hv
-#EXTINF:-1,ESPN 4HD
-171.22.165.241:8888/play/a0lo
-#EXTINF:-1,ESPN 5 HD
-171.22.165.241:8888/play/a0hm
-#EXTINF:-1,ESPN 7 HD
-171.22.165.241:8888/play/a0hn
-#EXTINF:-1,ESPN HD
-171.22.165.241:8888/play/a0mb
-#EXTINF:-1,ESPN HD
-171.22.165.241:8888/play/a0jz
-#EXTINF:-1,ESPN PREMIUM
-171.22.165.241:8888/play/a0mf
-#EXTINF:-1,Ecuador TV
-171.22.165.241:8888/play/a0mx
-#EXTINF:-1,Ecuador TV
-171.22.165.241:8888/play/a0j7
-#EXTINF:-1,Ecuavisa
-171.22.165.241:8888/play/a0j6
-#EXTINF:-1,ElCanaldelFutbol HD
-171.22.165.241:8888/play/a0kl
-#EXTINF:-1,GAMA TV
-171.22.165.241:8888/play/a0in
-#EXTINF:-1,GOL TV HD
-171.22.165.241:8888/play/a0n3
-#EXTINF:-1,GOLDEN HD
-171.22.165.241:8888/play/a0mt
-#EXTINF:-1,GolTV HD
-171.22.165.241:8888/play/a0ir
-#EXTINF:-1,Golden HD
-171.22.165.241:8888/play/a0iq
-#EXTINF:-1,HBO HD
-171.22.165.241:8888/play/a0fy
-#EXTINF:-1,HBO HD
-171.22.165.241:8888/play/a0lp
-#EXTINF:-1,HISTORY 2 HD
-171.22.165.241:8888/play/a0n9
-#EXTINF:-1,HISTORY CHANNEL
-171.22.165.241:8888/play/a0mr
-#EXTINF:-1,Kanal D Drama HD
-171.22.165.241:8888/play/a0ie
-#EXTINF:-1,MTV
-171.22.165.241:8888/play/a0mo
-#EXTINF:-1,MTV HD
-171.22.165.241:8888/play/a0m2
-#EXTINF:-1,MTV LIVE HD
-171.22.165.241:8888/play/a0jf
-#EXTINF:-1,Movistar Deportes HD
-171.22.165.241:8888/play/a0iu
-#EXTINF:-1,Movistar deportes
-171.22.165.241:8888/play/a0m8
-#EXTINF:-1,NICK HD
-171.22.165.241:8888/play/a0mu
-#EXTINF:-1,Nat Geo HD
-171.22.165.241:8888/play/a0ft
-#EXTINF:-1,Nick HD
-171.22.165.241:8888/play/a0ka
-#EXTINF:-1,OROMAR TV
-171.22.165.241:8888/play/a0j4
-#EXTINF:-1,Oromar TV
-171.22.165.241:8888/play/a0nc
-#EXTINF:-1,PARAMOUNT HD
-171.22.165.241:8888/play/a0mc
-#EXTINF:-1,Paramount HD
-171.22.165.241:8888/play/a0l5
-#EXTINF:-1,Play Boy
-171.22.165.241:8888/play/a0fu
-#EXTINF:-1,RTS
-171.22.165.241:8888/play/a0nd
-#EXTINF:-1,RTU
-171.22.165.241:8888/play/a0l9
-#EXTINF:-1,SEÑAL COLOMBIA HD
-171.22.165.241:8888/play/a0mi
-#EXTINF:-1,STAR CHANNEL HD
-171.22.165.241:8888/play/a0ke
-#EXTINF:-1,STAR CHANNEL HD
-171.22.165.241:8888/play/a0lu
-#EXTINF:-1,STAR TVE HD
-171.22.165.241:8888/play/a0ii
-#EXTINF:-1,START TV HD
-171.22.165.241:8888/play/a0ma
-#EXTINF:-1,STUDIO UNIVERSAL
-171.22.165.241:8888/play/a0l6
-#EXTINF:-1,SUN CHANNEL
-171.22.165.241:8888/play/a0m9
-#EXTINF:-1,Señal Colombia HD
-171.22.165.241:8888/play/a0iv
-#EXTINF:-1,Space HD
-171.22.165.241:8888/play/a0kk
-#EXTINF:-1,Studio Universal HD
-171.22.165.241:8888/play/a0ls
-#EXTINF:-1,Sun Channel HD
-171.22.165.241:8888/play/a0je
-#EXTINF:-1,TC Television
-171.22.165.241:8888/play/a0ne
-#EXTINF:-1,TC Television
-171.22.165.241:8888/play/a0j2
-#EXTINF:-1,TNT NOVELAS
-171.22.165.241:8888/play/a0kg
-#EXTINF:-1,TNT SERIES HD
-171.22.165.241:8888/play/a0mh
-#EXTINF:-1,TNT Series HD
-171.22.165.241:8888/play/a0jc
-#EXTINF:-1,TV + HD
-171.22.165.241:8888/play/a0n7
-#EXTINF:-1,TV+ HD
-171.22.165.241:8888/play/a0i6
-#EXTINF:-1,Teleamazonas
-171.22.165.241:8888/play/a0j3
-#EXTINF:-1,Telenovelas
-171.22.165.241:8888/play/a0lb
-#EXTINF:-1,Televicentro
-171.22.165.241:8888/play/a0j8
-#EXTINF:-1,TyC Sports HD
-171.22.165.241:8888/play/a0mj
-#EXTINF:-1,TyC Sports HD
-171.22.165.241:8888/play/a0iw
-#EXTINF:-1,Via X Esports
-171.22.165.241:8888/play/a0lg
-#EXTINF:-1,WARNER HD
-171.22.165.241:8888/play/a0mq
-#EXTINF:-1,WUAN+
-171.22.165.241:8888/play/a0lh
-#EXTINF:-1,Warner Channel HD
-171.22.165.241:8888/play/a0k4
-#EXTINF:-1,Win Sports+ HD
-171.22.165.241:8888/play/a0lc
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", A&E HD
+http://204.157.251.250:8001/play/a007/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", AMC HD
+http://204.157.251.250:8001/play/a008/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", AZ click HD
+http://204.157.251.250:8001/play/a00e/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Animal Planet HD
+http://204.157.251.250:8001/play/a004/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Canal 7 HD CR
+http://204.157.251.250:8001/play/a001/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Claro Sports 4 HD
+http://204.157.251.250:8001/play/a058/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Comedy Central HD
+http://204.157.251.250:8001/play/a02u/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", DHE HD
+http://204.157.251.250:8001/play/a049/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", DISC THEATHER HD
+http://204.157.251.250:8001/play/a02r/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Discovery Channel HD
+http://204.157.251.250:8001/play/a03r/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Discovery ID HD
+http://204.157.251.250:8001/play/a03v/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Discovery World HD
+http://204.157.251.250:8001/play/a03s/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", E! Entertairment HD
+http://204.157.251.250:8001/play/a005/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", ESPN 2 HD
+http://204.157.251.250:8001/play/a04t/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", ESPN 3 HD
+http://204.157.251.250:8001/play/a04u/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", ESPN 6 HD
+http://204.157.251.250:8001/play/a04v/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", ESPN HD
+http://204.157.251.250:8001/play/a055/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Europa HD
+http://204.157.251.250:8001/play/a00b/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", FOX SPORTS 3 HD
+http://204.157.251.250:8001/play/a03n/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", FUTV HD CR
+http://204.157.251.250:8001/play/a03j/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", FX HD
+http://204.157.251.250:8001/play/a00a/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Film & arts HD
+http://204.157.251.250:8001/play/a042/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Golf Channel HD
+http://204.157.251.250:8001/play/a04c/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", HOLA! TV HD
+http://204.157.251.250:8001/play/a02t/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Home & Health HD
+http://204.157.251.250:8001/play/a02s/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", MTV 00s HD
+http://204.157.251.250:8001/play/a02w/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", MTV SIM HD
+http://204.157.251.250:8001/play/a02v/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Nat Geo HD
+http://204.157.251.250:8001/play/a03o/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Nick SIM HD
+http://204.157.251.250:8001/play/a02p/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Paramount HD
+http://204.157.251.250:8001/play/a03p/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Pasiones HD
+http://204.157.251.250:8001/play/a03t/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Sony Movies HD
+http://204.157.251.250:8001/play/a00c/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Star TVE HD
+http://204.157.251.250:8001/play/a00f/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", TNT HD
+http://204.157.251.250:8001/play/a02q/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", TNT Series HD
+http://204.157.251.250:8001/play/a04y/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Teen Nick HD
+http://204.157.251.250:8001/play/a002/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Telemundo HD
+http://204.157.251.250:8001/play/a009/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Tigo Sports HD
+http://204.157.251.250:8001/play/a02o/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL CINEMA ESTE HD
+http://204.157.251.250:8001/play/a03w/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL COMEDY HD
+http://204.157.251.250:8001/play/a031/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL CRIME HD
+http://204.157.251.250:8001/play/a030/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL PREMIERE HD
+http://204.157.251.250:8001/play/a02x/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL PREMIERE O HD
+http://204.157.251.250:8001/play/a02y/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL REALITY HD
+http://204.157.251.250:8001/play/a02z/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Univision HD
+http://204.157.251.250:8001/play/a03u/index.m3u8
