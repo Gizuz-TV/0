@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,tvg-logo="https://www.facebook.com/photo/?fbid=122172195284057895&set=a.122099443754057895", Gizuz-Kay
+#EXTINF:0,tvg-logo="https://scontent.fmtt1-1.fna.fbcdn.net/v/t39.30808-6/462386362_122172195290057895_566533639095271801_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_91VEnalgesQ7kNvgFS-cFp&_nc_zt=23&_nc_ht=scontent.fmtt1-1.fna&_nc_gid=A2MbB2JHeEvaP00BY4q9Zur&oh=00_AYADpPI3DSg1EyxsVT5uyL11P_NZbjNWXvvmmhZoiWx4mA&oe=676D6469", Gizuz-Kay
 https://stream.zeno.fm/1oubyxkatphtv
 #EXTINF:0,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS
 https://dai.google.com/ssai/event/_e1s_U52SCGL6zTnlTrbVQ/master.m3u8
@@ -35,94 +35,153 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0, CINERAMA
 https://5d00db0e0fcd5.streamlock.net/7062/7062/.m3u8
-
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", A&E HD
-http://204.157.251.250:8001/play/a007/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", AMC HD
-http://204.157.251.250:8001/play/a008/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", AZ click HD
-http://204.157.251.250:8001/play/a00e/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Animal Planet HD
-http://204.157.251.250:8001/play/a004/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Canal 7 HD CR
-http://204.157.251.250:8001/play/a001/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Claro Sports 4 HD
-http://204.157.251.250:8001/play/a058/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Comedy Central HD
-http://204.157.251.250:8001/play/a02u/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", DHE HD
-http://204.157.251.250:8001/play/a049/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", DISC THEATHER HD
-http://204.157.251.250:8001/play/a02r/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Discovery Channel HD
-http://204.157.251.250:8001/play/a03r/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Discovery ID HD
-http://204.157.251.250:8001/play/a03v/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Discovery World HD
-http://204.157.251.250:8001/play/a03s/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", E! Entertairment HD
-http://204.157.251.250:8001/play/a005/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", ESPN 2 HD
-http://204.157.251.250:8001/play/a04t/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", ESPN 3 HD
-http://204.157.251.250:8001/play/a04u/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", ESPN 6 HD
-http://204.157.251.250:8001/play/a04v/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", ESPN HD
-http://204.157.251.250:8001/play/a055/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Europa HD
-http://204.157.251.250:8001/play/a00b/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", FOX SPORTS 3 HD
-http://204.157.251.250:8001/play/a03n/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", FUTV HD CR
-http://204.157.251.250:8001/play/a03j/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", FX HD
-http://204.157.251.250:8001/play/a00a/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Film & arts HD
-http://204.157.251.250:8001/play/a042/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Golf Channel HD
-http://204.157.251.250:8001/play/a04c/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", HOLA! TV HD
-http://204.157.251.250:8001/play/a02t/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Home & Health HD
-http://204.157.251.250:8001/play/a02s/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", MTV 00s HD
-http://204.157.251.250:8001/play/a02w/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", MTV SIM HD
-http://204.157.251.250:8001/play/a02v/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Nat Geo HD
-http://204.157.251.250:8001/play/a03o/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Nick SIM HD
-http://204.157.251.250:8001/play/a02p/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Paramount HD
-http://204.157.251.250:8001/play/a03p/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Pasiones HD
-http://204.157.251.250:8001/play/a03t/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Sony Movies HD
-http://204.157.251.250:8001/play/a00c/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Star TVE HD
-http://204.157.251.250:8001/play/a00f/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", TNT HD
-http://204.157.251.250:8001/play/a02q/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", TNT Series HD
-http://204.157.251.250:8001/play/a04y/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Teen Nick HD
-http://204.157.251.250:8001/play/a002/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Telemundo HD
-http://204.157.251.250:8001/play/a009/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Tigo Sports HD
-http://204.157.251.250:8001/play/a02o/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL CINEMA ESTE HD
-http://204.157.251.250:8001/play/a03w/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL COMEDY HD
-http://204.157.251.250:8001/play/a031/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL CRIME HD
-http://204.157.251.250:8001/play/a030/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL PREMIERE HD
-http://204.157.251.250:8001/play/a02x/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL PREMIERE O HD
-http://204.157.251.250:8001/play/a02y/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", UNIVERSAL REALITY HD
-http://204.157.251.250:8001/play/a02z/index.m3u8
-#EXTINF:-1 tvg-shift="-3"  group-title="Lista 3 Dominican", Univision HD
-http://204.157.251.250:8001/play/a03u/index.m3u8
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", AE Mundo
+http://177.93.46.163:8000/play/a016
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", AXN
+http://177.93.46.163:8000/play/a022
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Animal Planet
+http://177.93.46.163:8000/play/a010
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", BabyFirst
+http://177.93.46.163:8000/play/a00g
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", CNN Espanol
+http://177.93.46.163:8000/play/a00l
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal Caracol
+http://177.93.46.163:8000/play/a01n
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal Estrellas
+http://177.93.46.163:8000/play/a019
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal Institucional
+http://177.93.46.163:8000/play/a01p
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal RCN
+http://177.93.46.163:8000/play/a01o
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal Uno
+http://177.93.46.163:8000/play/a01l
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Canal del Congreso
+http://177.93.46.163:8000/play/a01q
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Capital
+http://177.93.46.163:8000/play/a01x
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Cartoon Network
+http://177.93.46.163:8000/play/a00d
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Cinecanal
+http://177.93.46.163:8000/play/a007
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Cinemax
+http://177.93.46.163:8000/play/a020
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", City TV
+http://177.93.46.163:8000/play/a01w
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Discovery Channel
+http://177.93.46.163:8000/play/a00z
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Discovery ID
+http://177.93.46.163:8000/play/a01f
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Discovery Kids
+http://177.93.46.163:8000/play/a00k
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Discovery Turbo
+http://177.93.46.163:8000/play/a02c
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Disney Channel
+http://177.93.46.163:8000/play/a00y
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Disney Jr
+http://177.93.46.163:8000/play/a00q
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", E Entertainment
+http://177.93.46.163:8000/play/a012
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN
+http://177.93.46.163:8000/play/a015
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN 2
+http://177.93.46.163:8000/play/a00s
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN 2 Latin
+http://177.93.46.163:8000/play/a014
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN 3
+http://177.93.46.163:8000/play/a02e
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN 4
+http://177.93.46.163:8000/play/a01j
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ESPN CO
+http://177.93.46.163:8000/play/a01s
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Enlace
+http://177.93.46.163:8000/play/a00f
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Esne TV
+http://177.93.46.163:8000/play/a02d
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", FX
+http://177.93.46.163:8000/play/a024
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Fox Sports 2
+http://177.93.46.163:8000/play/a01a
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Fox Sports 3
+http://177.93.46.163:8000/play/a01b
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HBO
+http://177.93.46.163:8000/play/a01z
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HBO 2
+http://177.93.46.163:8000/play/a00m
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HBO Family
+http://177.93.46.163:8000/play/a00p
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HBO Plus
+http://177.93.46.163:8000/play/a00n
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HBO XTREME SD
+http://177.93.46.163:8000/play/a00o
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", History Channel
+http://177.93.46.163:8000/play/a006
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", HomeandHealth
+http://177.93.46.163:8000/play/a01i
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", I-Sat
+http://177.93.46.163:8000/play/a009
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Lifetime
+http://177.93.46.163:8000/play/a00h
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", MTV
+http://177.93.46.163:8000/play/a00a
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Nat Geo
+http://177.93.46.163:8000/play/a005
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Nick Jr
+http://177.93.46.163:8000/play/a02b
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Nickelodeon
+http://177.93.46.163:8000/play/a004
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", RCN Novelas
+http://177.93.46.163:8000/play/a01e
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", STAR CHANNEL
+http://177.93.46.163:8000/play/a00b
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Senal Colombia
+http://177.93.46.163:8000/play/a01r
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Sony
+http://177.93.46.163:8000/play/a021
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Space
+http://177.93.46.163:8000/play/a023
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Studio Universal
+http://177.93.46.163:8000/play/a00r
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", SyFy
+http://177.93.46.163:8000/play/a00i
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", TBS
+http://177.93.46.163:8000/play/a01g
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", TCM
+http://177.93.46.163:8000/play/a00c
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", TLC
+http://177.93.46.163:8000/play/a017
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", TNT
+http://177.93.46.163:8000/play/a00e
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", TRO
+http://177.93.46.163:8000/play/a01u
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Teleantioquia
+http://177.93.46.163:8000/play/a025
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Telecafe
+http://177.93.46.163:8000/play/a02h
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Telecaribe
+http://177.93.46.163:8000/play/a02f
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Teleislas
+http://177.93.46.163:8000/play/a01v
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Telemundo
+http://177.93.46.163:8000/play/a01c
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Telepacifico
+http://177.93.46.163:8000/play/a027
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Trece
+http://177.93.46.163:8000/play/a02i
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", UPDATE
+http://177.93.46.163:8000/play/a02r
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Universal
+http://177.93.46.163:8000/play/a008
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Universal Cinema SD
+http://177.93.46.163:8000/play/a00u
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Universal Comedy SD
+http://177.93.46.163:8000/play/a00v
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Universal Premiere SD
+http://177.93.46.163:8000/play/a00t
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", ViaX
+http://177.93.46.163:8000/play/a018
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Warner
+http://177.93.46.163:8000/play/a011
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Win
+http://177.93.46.163:8000/play/a026
+#EXTINF:-1 tvg-shift="-3"  group-title="Lista 4 Colombia", Zoom
+http://177.93.46.163:8000/play/a01t
