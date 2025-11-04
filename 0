@@ -32,101 +32,203 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0, Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", AE Mundo
-http://181.188.234.21:8000/play/a043/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", AXN
-http://181.188.234.21:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Animal Planet
-http://181.188.234.21:8000/play/a03x/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", CNN Espanol
-http://181.188.234.21:8000/play/a05p/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Canal Estrellas
-http://181.188.234.21:8000/play/a044/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Cartoon Network
-http://181.188.234.21:8000/play/a03e/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Cinecanal
-http://181.188.234.21:8000/play/a022/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Cinemax
-http://181.188.234.21:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Discovery Channel
-http://181.188.234.21:8000/play/a03w/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Discovery ID
-http://181.188.234.21:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Discovery Kids
-http://181.188.234.21:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Discovery Turbo
-http://181.188.234.21:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Disney Channel
-http://181.188.234.21:8000/play/a03v/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Disney Jr
-http://181.188.234.21:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", E Entertainment
-http://181.188.234.21:8000/play/a03z/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", ECDF SD
-http://181.188.234.21:8000/play/a04u/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", ESPN
-http://181.188.234.21:8000/play/a041/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", ESPN 2
-http://181.188.234.21:8000/play/a05t/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", ESPN 3
-http://181.188.234.21:8000/play/a04m/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", ESPN 4
-http://181.188.234.21:8000/play/a05l/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Ecuador TV
-http://181.188.234.21:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Ecuavisa
-http://181.188.234.21:8000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Enlace
-http://181.188.234.21:8000/play/a03g/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", FX
-http://181.188.234.21:8000/play/a04j/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Fox Sports 2
-http://181.188.234.21:8000/play/a045/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Fox Sports 3
-http://181.188.234.21:8000/play/a046/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", France 24
-http://181.188.234.21:8000/play/a05h/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", GOL TV
-http://181.188.234.21:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", GamaTV
-http://181.188.234.21:8000/play/a05n/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", HBO
-http://181.188.234.21:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", History Channel
-http://181.188.234.21:8000/play/a039/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", HomeandHealth
-http://181.188.234.21:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", MTV
-http://181.188.234.21:8000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Nat Geo
-http://181.188.234.21:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Nickelodeon
-http://181.188.234.21:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", RCN Novelas
-http://181.188.234.21:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", RTS
-http://181.188.234.21:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", STAR CHANNEL
-http://181.188.234.21:8000/play/a03c/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Sony
-http://181.188.234.21:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Space
-http://181.188.234.21:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Studio Universal
-http://181.188.234.21:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", SyFy
-http://181.188.234.21:8000/play/a03i/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", TC Television
-http://181.188.234.21:8000/play/a04p/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", TCM
-http://181.188.234.21:8000/play/a03d/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", TNT
-http://181.188.234.21:8000/play/a03f/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Teleamazonas
-http://181.188.234.21:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Telemundo
-http://181.188.234.21:8000/play/a04n/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Universal
-http://181.188.234.21:8000/play/a03a/index.m3u8
-#EXTINF:-1 tvg-shift="-4"  group-title="Lista 7 Ecuador", Warner
-http://181.188.234.21:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="-",26TV
+https://181.13.252.102:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="-",9LINK HD
+https://181.13.252.102:8000/play/a0bl/index.m3u8
+#EXTINF:-1 group-title="-",A&E HD
+https://181.13.252.102:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="-",A24
+https://181.13.252.102:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="-",AM Sports
+https://181.13.252.102:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="-",AMC
+https://181.13.252.102:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="-",AXN HD
+https://181.13.252.102:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD
+https://181.13.252.102:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="-",Baby TV
+https://181.13.252.102:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="-",C5N
+https://181.13.252.102:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="-",CNN en Espaæol
+https://181.13.252.102:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="-",Canal Luz HD
+https://181.13.252.102:8000/play/a0bi/index.m3u8
+#EXTINF:-1 group-title="-",Canal a
+https://181.13.252.102:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="-",Canal de la Ciudad
+https://181.13.252.102:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network HD
+https://181.13.252.102:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="-",Cine.AR
+https://181.13.252.102:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="-",Cinecanal HD
+https://181.13.252.102:8000/play/a07b/index.m3u8
+#EXTINF:-1 group-title="-",Cinemax
+https://181.13.252.102:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="-",Comedy Central HD
+https://181.13.252.102:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="-",Cronica
+https://181.13.252.102:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="-",DeporTV
+https://181.13.252.102:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel HD
+https://181.13.252.102:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="-",Discovery H&H HD
+https://181.13.252.102:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids
+https://181.13.252.102:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science
+https://181.13.252.102:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+https://181.13.252.102:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+https://181.13.252.102:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="-",Discovery World HD
+https://181.13.252.102:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="-",Disney Channel HD
+https://181.13.252.102:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="-",Disney Junior
+https://181.13.252.102:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="-",E! Entertainment
+https://181.13.252.102:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+https://181.13.252.102:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+https://181.13.252.102:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4 HD
+https://181.13.252.102:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+https://181.13.252.102:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="-",ESPN Premium HD
+181.13.252.102:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="-",El Canal de las Estrellas
+181.13.252.102:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="-",El Gourmet
+181.13.252.102:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="-",Encuentro
+181.13.252.102:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="-",Enlace SD
+181.13.252.102:8000/play/a0bh/index.m3u8
+#EXTINF:-1 group-title="-",Europa Europa
+181.13.252.102:8000/play/a06v/index.m3u8
+#EXTINF:-1 group-title="-",FX HD
+181.13.252.102:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="-",Film & Arts HD
+181.13.252.102:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 2 HD
+181.13.252.102:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports 3 HD
+181.13.252.102:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="-",Fox Sports HD
+181.13.252.102:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="-",Galicia TV
+181.13.252.102:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="-",HBO
+181.13.252.102:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+181.13.252.102:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="-",HBO Family
+181.13.252.102:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="-",HBO Mundi
+181.13.252.102:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="-",HBO Plus
+181.13.252.102:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",HBO Signature
+181.13.252.102:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="-",HBO Xtreme
+181.13.252.102:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="-",HGTV
+181.13.252.102:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",HTV
+181.13.252.102:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="-",History 2
+181.13.252.102:8000/play/a0ab/index.m3u8
+#EXTINF:-1 group-title="-",History Channel
+181.13.252.102:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="-",La Nacion TV
+181.13.252.102:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="-",Lifetime
+181.13.252.102:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="-",MTV
+181.13.252.102:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="-",MTV×00
+181.13.252.102:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="-",Metro
+181.13.252.102:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo HD
+181.13.252.102:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="-",Nick Jr
+181.13.252.102:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="-",Nickelodeon
+181.13.252.102:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="-",Nuevo Tiempo HD
+181.13.252.102:8000/play/a0bj/index.m3u8
+#EXTINF:-1 group-title="-",Pakapaka
+181.13.252.102:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="-",Paramount HD
+181.13.252.102:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="-",Playboy
+181.13.252.102:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="-",Quiero Musica
+181.13.252.102:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="-",RAI Italia
+181.13.252.102:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="-",RT en Espaæol
+181.13.252.102:8000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="-",Rural
+181.13.252.102:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="-",Sextreme
+181.13.252.102:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="-",Sony HD
+181.13.252.102:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="-",Sony Movies HD
+181.13.252.102:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="-",Space HD
+181.13.252.102:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="-",Star Channel HD
+181.13.252.102:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="-",Studio Universal
+181.13.252.102:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="-",TCM
+181.13.252.102:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="-",TLNovelas
+181.13.252.102:8000/play/a0bm/index.m3u8
+#EXTINF:-1 group-title="-",TN HD
+181.13.252.102:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+181.13.252.102:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="-",TNT Novelas HD
+181.13.252.102:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="-",TNT Series HD
+181.13.252.102:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="-",TNT Sports HD
+181.13.252.102:8000/play/a0bc/index.m3u8
+#EXTINF:-1 group-title="-",TV Publica HD
+181.13.252.102:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="-",TVE
+181.13.252.102:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="-",Telefe HD
+181.13.252.102:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="-",The History Channel HD
+181.13.252.102:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="-",TyC Sports HD
+181.13.252.102:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="-",USA Network
+181.13.252.102:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="-",Universal HD
+181.13.252.102:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="-",Venus
+181.13.252.102:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="-",Volver
+181.13.252.102:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="-",Warner Channel HD
+181.13.252.102:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="-",ciudad magazine
+181.13.252.102:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="-",el nueve HD
+181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="-",el trece HD
+181.13.252.102:8000/play/a0bg/index.m3u8
