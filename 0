@@ -32,6 +32,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1, Univision
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
 
+#EXTINF:-1,CANAL 5
+http://38.65.175.116:8000/play/a0fl/index.m3u8
+#EXTINF:-1,CANAL 5 HD
+http://38.65.175.116:8000/play/a0ll/index.m3u8
 #EXTINF:-1 group-title="-",azteca 7
 http://189.148.49.233:8000/play/a05h/index.m3u8
 #EXTINF:-1 group-title="-",EL 5 HD
