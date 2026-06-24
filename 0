@@ -58,5 +58,7 @@ http://177.53.152.117:8000/play/a07d/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 10)
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",Canal 5 (1080p)
-http://190.11.225.124:5000/live/canal5_hd/playlist.m3u8
+#EXTINF:-0,Azteca 7
+https://streamvidex.qzz.io/videx/azteca7/index.m3u8
+#EXTINF:-0,Canal 7
+https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
