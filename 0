@@ -54,9 +54,9 @@ https://streamvidex.qzz.io/videx/azteca7/index.m3u8
 #EXTINF:-0,Canal 5
 https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
 
-#EXTINF:-0,Dsports
+#EXTINF:-1,Dsports
 https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
-#EXTINF:-0,Telemundo
+#EXTINF:-1,Telemundo
 https://streamvidex.qzz.io/videx/telemundo/index.m3u8
-#EXTINF:-0,Tudnmx
+#EXTINF:-1,Tudnmx
 https://streamvidex.qzz.io/videx/tudnmx/index.m3u8
