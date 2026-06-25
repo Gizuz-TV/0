@@ -50,13 +50,6 @@ http://191.97.59.33:8000/play/a09t/index.m3u8
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
 #EXTINF:-0,Azteca 7
-https://000963.videx.lol/videx/azteca7/index.m3u8
+https://streamvidex.qzz.io/videx/azteca7/index.m3u8
 #EXTINF:-0,Canal 5
-https://000963.videx.lol/ultra/canalfive/index.m3u8
-
-#EXTINF:-1,Dsports
-https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
-#EXTINF:-1,Telemundo
-https://streamvidex.qzz.io/videx/telemundo/index.m3u8
-#EXTINF:-1,Tudnmx
-https://streamvidex.qzz.io/videx/tudnmx/index.m3u8
+https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
