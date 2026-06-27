@@ -400,5 +400,247 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a8w1QRn.png" group-title="TV ABIERTA", STAR TVE AMERICA HD 
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 
-#EXTINF:-1 group-title="TV ABIERTA", TASTEMADE
-https://amg00047-tastemade-tastemadees16international24i-ono-h4pdz.amagi.tv/playlist/amg00047-tastemade-tastemadees16international24i-ono/cb513d177b6c638c84cb3678d1d3d091a65928d80b6c852a6ab454876dbd4607c0f4fad39c15bb2a03c64bce600e66413e1ad668db7907b2ce08ed0868280811fa99c365db9a1309b2dd112a2ab4710e16b81705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434ff9081fa6f901fde0e54345c81ff9f34315c03044e4835cc9ca1abc87dc459d4a960bae46c4cea59bb041d4d7d33ab652b163470b743fddd57d919f04b78c9b243bce702c0b4f04e3a5defc193e870a4759feac9aea35a94b978a71b39d56d176f09f0b8aeb11c83a91a32585a1fbec434d2fa5c0547355d88fc2a4da45fe39fb99d884f37c6e8dfe54594acc7fd1212a42e3952aaf3ea267fa85228bf45a1c34d69041948ff0c4875036f0fd57a8f4c7e241664b730510925caf9f63cf269d7cad8e2020520d77ac9643c582d64c7a021dcfe85aa578ce7fc22c8a942e423077e798ab4deffb4f1fed39696eec2ef8d51960b6150b89233cff5727baf69dd2ec948ad4ff0f37b9df8817b13faffd26dbf817b1367c780cb7e02356410c2c84b5263e1d34e210b185efa1551c09e0f382cbf00219496b44035cdbb7a920cbd99b690a0088130770641c12a101d442d61406557d9e5080fa493cae2e1500caeb7f5153679388968484ddc50df549d6ddee3020351637f363450566c1b9805cb269182f340dce593314e549091baab8c6e7908c6b8eaf65ac39701d2c90a3400f5a04010e60fcb166d34ced9a19cbf99b08b6afe775768431b0141e99a2bb5ff9e092d24108d2c67a16659edf22854325c819d121eb83298da834e67d86b4ec18e8b569a5e3a2b80530c43835f6d0022220/195/1920x1080_4716800/index.m3u8
+#EXTINF:-1 group-title="-",123 TV
+https://103.219.235.149:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="-",A&E HD
+https://103.219.235.149:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="-",AMC HD
+https://103.219.235.149:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="-",AMC Series
+https://103.219.235.149:8000/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="-",AVIVAMIENTO
+https://103.219.235.149:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="-",AXN HD
+https://103.219.235.149:8000/play/a0au/index.m3u8
+#EXTINF:-1 group-title="-",AZ CINEMA
+https://103.219.235.149:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="-",AZCORAZON
+103.219.235.149:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="-",America TV HD
+103.219.235.149:8000/play/a0bp/index.m3u8
+#EXTINF:-1 group-title="-",Animal Planet HD
+103.219.235.149:8000/play/a0al/index.m3u8
+#EXTINF:-1 group-title="-",Antena 3
+103.219.235.149:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="-",Atres Series
+103.219.235.149:8000/play/a0d3/index.m3u8
+#EXTINF:-1 group-title="-",BANDAMAX
+103.219.235.149:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="-",BBC NEWS
+103.219.235.149:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="-",BETHEL TV
+103.219.235.149:8000/play/a0ak/index.m3u8
+#EXTINF:-1 group-title="-",BITMEN
+103.219.235.149:8000/play/a0d4/index.m3u8
+#EXTINF:-1 group-title="-",Baby TV
+103.219.235.149:8000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="-",CARACOL HD (R)
+103.219.235.149:8000/play/a0ek/index.m3u8
+#EXTINF:-1 group-title="-",CARACOL HD 2
+103.219.235.149:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="-",CGTN
+103.219.235.149:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="-",CGTN Documentary
+103.219.235.149:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="-",CINE FAMILIAR
+103.219.235.149:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="-",CINE PREMIUM
+103.219.235.149:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="-",CNN Espaæol
+103.219.235.149:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="-",CNN International
+103.219.235.149:8000/play/a0cq/index.m3u8
+#EXTINF:-1 group-title="-",CableNoticias
+103.219.235.149:8000/play/a0ej/index.m3u8
+#EXTINF:-1 group-title="-",Canal 24 Horas HD
+103.219.235.149:8000/play/a0c8/index.m3u8
+#EXTINF:-1 group-title="-",Canal Institucional
+103.219.235.149:8000/play/a0dh/index.m3u8
+#EXTINF:-1 group-title="-",Canal Uno
+103.219.235.149:8000/play/a0ef/index.m3u8
+#EXTINF:-1 group-title="-",Canal del Congreso
+103.219.235.149:8000/play/a0di/index.m3u8
+#EXTINF:-1 group-title="-",Capital
+103.219.235.149:8000/play/a0do/index.m3u8
+#EXTINF:-1 group-title="-",Caracol HD
+103.219.235.149:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network
+103.219.235.149:8000/play/a0c3/index.m3u8
+#EXTINF:-1 group-title="-",Cartoonito
+103.219.235.149:8000/play/a0cp/index.m3u8
+#EXTINF:-1 group-title="-",Cinecanal HD
+103.219.235.149:8000/play/a0aq/index.m3u8
+#EXTINF:-1 group-title="-",Cinemax
+103.219.235.149:8000/play/a0e2/index.m3u8
+#EXTINF:-1 group-title="-",City TV
+103.219.235.149:8000/play/a0dn/index.m3u8
+#EXTINF:-1 group-title="-",Cristovisiðn
+103.219.235.149:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="-",DW Espaæol
+103.219.235.149:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="-",De PelŦcula
+103.219.235.149:8000/play/a0da/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Channel HD
+103.219.235.149:8000/play/a0am/index.m3u8
+#EXTINF:-1 group-title="-",Discovery H&H HD
+103.219.235.149:8000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids HD
+103.219.235.149:8000/play/a0ct/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Theater HD
+103.219.235.149:8000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="-",Disney HD
+103.219.235.149:8000/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="-",Disney Jr.
+103.219.235.149:8000/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="-",Distrito Comedia
+103.219.235.149:8000/play/a0eh/index.m3u8
+#EXTINF:-1 group-title="-",E! Entertainment TV
+103.219.235.149:8000/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 2 HD
+103.219.235.149:8000/play/a0ec/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 3 HD
+103.219.235.149:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 4HD
+103.219.235.149:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 5HD
+103.219.235.149:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 6HD
+103.219.235.149:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="-",ESPN 7HD
+103.219.235.149:8000/play/a0ar/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+103.219.235.149:8000/play/a0e6/index.m3u8
+#EXTINF:-1 group-title="-",ESPN HD
+103.219.235.149:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="-",ET Canal El Tiempo
+103.219.235.149:8000/play/a0co/index.m3u8
+#EXTINF:-1 group-title="-",EWTN
+103.219.235.149:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="-",Ecuavisa
+103.219.235.149:8000/play/a087/index.m3u8
+#EXTINF:-1 group-title="-",El Gourmet HD
+103.219.235.149:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="-",Enlace
+103.219.235.149:8000/play/a0cr/index.m3u8
+#EXTINF:-1 group-title="-",FX HD
+103.219.235.149:8000/play/a0b0/index.m3u8
+#EXTINF:-1 group-title="-",Food Network HD
+103.219.235.149:8000/play/a0c9/index.m3u8
+#EXTINF:-1 group-title="-",France 24
+103.219.235.149:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="-",Golden Edge
+103.219.235.149:8000/play/a0bz/index.m3u8
+#EXTINF:-1 group-title="-",Golden HD
+103.219.235.149:8000/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="-",HEI HD
+103.219.235.149:8000/play/a0e9/index.m3u8
+#EXTINF:-1 group-title="-",HGTV
+103.219.235.149:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="-",HOLA TV HD
+103.219.235.149:8000/play/a0eb/index.m3u8
+#EXTINF:-1 group-title="-",History Channel HD
+103.219.235.149:8000/play/a0an/index.m3u8
+#EXTINF:-1 group-title="-",ID HD
+103.219.235.149:8000/play/a0av/index.m3u8
+#EXTINF:-1 group-title="-",Kanal D Drama
+103.219.235.149:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="-",LA KALLE
+103.219.235.149:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="-",La Red HD
+103.219.235.149:8000/play/a0ce/index.m3u8
+#EXTINF:-1 group-title="-",La Tele
+103.219.235.149:8000/play/a0dz/index.m3u8
+#EXTINF:-1 group-title="-",Las Estrellas HD
+103.219.235.149:8000/play/a0ei/index.m3u8
+#EXTINF:-1 group-title="-",Latina HD
+103.219.235.149:8000/play/a0bq/index.m3u8
+#EXTINF:-1 group-title="-",Love Nature
+103.219.235.149:8000/play/a081/index.m3u8
+#EXTINF:-1 group-title="-",MI MUSICA POPULAR
+103.219.235.149:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="-",NTN 24 Horas
+103.219.235.149:8000/play/a0cn/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo HD
+103.219.235.149:8000/play/a0ao/index.m3u8
+#EXTINF:-1 group-title="-",Nuestra Tele
+103.219.235.149:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="-",OROMAR TV
+103.219.235.149:8000/play/a0cu/index.m3u8
+#EXTINF:-1 group-title="-",POPU TV
+103.219.235.149:8000/play/a0ea/index.m3u8
+#EXTINF:-1 group-title="-",Pasiones HD
+103.219.235.149:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="-",Plim Plim TV
+103.219.235.149:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="-",RCN HD
+103.219.235.149:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="-",RCN HD (R)
+103.219.235.149:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",RCN HD 2
+103.219.235.149:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-",RTS
+103.219.235.149:8000/play/a0dw/index.m3u8
+#EXTINF:-1 group-title="-",RUMBA TV
+103.219.235.149:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="-",STAR CHANNEL HD
+103.219.235.149:8000/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="-",Senal Colombia
+103.219.235.149:8000/play/a0dj/index.m3u8
+#EXTINF:-1 group-title="-",Show Ven TV
+103.219.235.149:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="-",Sony HD
+103.219.235.149:8000/play/a0as/index.m3u8
+#EXTINF:-1 group-title="-",Space HD
+103.219.235.149:8000/play/a0aw/index.m3u8
+#EXTINF:-1 group-title="-",Studio Universal HD
+103.219.235.149:8000/play/a0bn/index.m3u8
+#EXTINF:-1 group-title="-",Sun Channel HD
+103.219.235.149:8000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="-",TCM
+103.219.235.149:8000/play/a0a6/index.m3u8
+#EXTINF:-1 group-title="-",TELEHITMUSICA
+103.219.235.149:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="-",TELENOSTALGIA
+103.219.235.149:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="-",TLC
+103.219.235.149:8000/play/a0ca/index.m3u8
+#EXTINF:-1 group-title="-",TNT HD
+103.219.235.149:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="-",TNT Novelas HD
+103.219.235.149:8000/play/a09n/index.m3u8
+#EXTINF:-1 group-title="-",TNT Series HD
+103.219.235.149:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="-",TRO
+103.219.235.149:8000/play/a0dl/index.m3u8
+#EXTINF:-1 group-title="-",TV AGRO
+103.219.235.149:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="-",Teleamazonas
+103.219.235.149:8000/play/a0ed/index.m3u8
+#EXTINF:-1 group-title="-",Teleantioquia
+103.219.235.149:8000/play/a0dt/index.m3u8
+#EXTINF:-1 group-title="-",Telecafe
+103.219.235.149:8000/play/a0e0/index.m3u8
+#EXTINF:-1 group-title="-",Telecaribe
+103.219.235.149:8000/play/a0dy/index.m3u8
+#EXTINF:-1 group-title="-",Telefe
+103.219.235.149:8000/play/a0dx/index.m3u8
+#EXTINF:-1 group-title="-",Teleislas
+103.219.235.149:8000/play/a0dm/index.m3u8
+#EXTINF:-1 group-title="-",Telemundo
+103.219.235.149:8000/play/a0cb/index.m3u8
+#EXTINF:-1 group-title="-",Telenovelas
+103.219.235.149:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="-",Telepacifico
+103.219.235.149:8000/play/a0dv/index.m3u8
+#EXTINF:-1 group-title="-",Tooncast
+103.219.235.149:8000/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="-",Trece
+103.219.235.149:8000/play/a0e1/index.m3u8
+#EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
+103.219.235.149:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="-",Warner Channel HD
+103.219.235.149:8000/play/a0at/index.m3u8
+#EXTINF:-1 group-title="-",Win Sports+ HD
+103.219.235.149:8000/play/a0ee/index.m3u8
+#EXTINF:-1 group-title="-",Zoom
+103.219.235.149:8000/play/a0dk/index.m3u8
