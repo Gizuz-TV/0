@@ -53,3 +53,160 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 https://streamvidex.qzz.io/videx/azteca7/index.m3u8
 #EXTINF:-0,Canal 5
 https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
+
+#EXTINF:-1 group-title="-", Folklore TV
+http://38.252.215.33:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",+CINE
+http://38.252.215.33:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="-",+CINE CLASSIC
+http://38.252.215.33:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="-",+CINE FAMILY
+http://38.252.215.33:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="-",AMERICA
+http://38.252.215.33:8000/play/a08j/index.m3u8
+#EXTINF:-1 group-title="-",ANIMAL PLANET
+http://38.252.215.33:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="-",ATV
+http://38.252.215.33:8000/play/a08q/index.m3u8
+#EXTINF:-1 group-title="-",ATV+
+http://38.252.215.33:8000/play/a08n/index.m3u8
+#EXTINF:-1 group-title="-",ATV-SUR
+http://38.252.215.33:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="-",BETHEL
+http://38.252.215.33:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="-",CANAL ADULTO
+38.252.215.33:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="-",CANAL ADULTO 2
+38.252.215.33:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="-",CANAL CLARO
+38.252.215.33:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="-",CANAL N
+38.252.215.33:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="-",CARTOONITO
+38.252.215.33:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",CINE LATINO
+38.252.215.33:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="-",CINE MEXICANO
+38.252.215.33:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="-",CINEMA GLOBAL
+38.252.215.33:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="-",CINEMAX HD
+38.252.215.33:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="-",CONECTA2TV
+38.252.215.33:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="-",DISNEY
+38.252.215.33:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="-",DPELICULAS
+38.252.215.33:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="-",DREAMWORKS HD
+38.252.215.33:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="-",DSPORT
+38.252.215.33:8000/play/a082/index.m3u8
+#EXTINF:-1 group-title="-",E-SPORTS MAX
+38.252.215.33:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="-",ENCUENTRO ANDINO
+38.252.215.33:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="-",ESPN PERUANO
+38.252.215.33:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="-",ESPN PREMIUN
+38.252.215.33:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="-",EXITOSA
+38.252.215.33:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="-",FMH FAMILIA
+38.252.215.33:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="-",FMH KIPS
+38.252.215.33:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="-",FMH MOVIES
+38.252.215.33:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="-",FREE TV DRAMA
+38.252.215.33:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="-",FREE TV HORROR
+38.252.215.33:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="-",HBO
+38.252.215.33:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="-",HBO FAMILY
+38.252.215.33:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="-",HBO XTREME
+38.252.215.33:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="-",HISTORY
+38.252.215.33:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="-",KARABANA URBANO
+38.252.215.33:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="-",KARIBEÑA
+38.252.215.33:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="-",LA TELE
+38.252.215.33:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="-",LATINA
+38.252.215.33:8000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="-",LIGA MAX
+38.252.215.33:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="-",LINIUM-ANIME
+38.252.215.33:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="-",LOVE NATURE
+38.252.215.33:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="-",MAX ANIME
+38.252.215.33:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="-",MILENIAL TV
+38.252.215.33:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="-",MOVISTAR DE PORTE
+38.252.215.33:8000/play/a088/index.m3u8
+#EXTINF:-1 group-title="-",NAT GEO
+38.252.215.33:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-",NORT UNION TV
+38.252.215.33:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="-",PAMERICANA
+38.252.215.33:8000/play/a08k/index.m3u8
+#EXTINF:-1 group-title="-",PASIONES
+38.252.215.33:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="-",PEQUE TV
+38.252.215.33:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="-",PERUANISIMA
+38.252.215.33:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="-",PLIN PLIN
+38.252.215.33:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="-",RBG canal chota musica
+38.252.215.33:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="-",RCN NOVELAS
+38.252.215.33:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="-",RED GLOBAL HD
+38.252.215.33:8000/play/a08o/index.m3u8
+#EXTINF:-1 group-title="-",RIBEREÑA
+38.252.215.33:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="-",RPP
+38.252.215.33:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",RUMBA TV
+38.252.215.33:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="-",SELVA TV
+38.252.215.33:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="-",SONY MOVIES
+38.252.215.33:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="-",STAR CHANEL
+38.252.215.33:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="-",Space
+38.252.215.33:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="-",Sun Channel HD
+38.252.215.33:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="-",TELE LIMA
+38.252.215.33:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="-",TELENOVELAS
+38.252.215.33:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="-",TNT
+38.252.215.33:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="-",TOONCAST
+38.252.215.33:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="-",TV PERU
+38.252.215.33:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="-",WARNER
+38.252.215.33:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="-",WESTV
+38.252.215.33:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="-",WESTV LATIN
+38.252.215.33:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="-",WILAX
+38.252.215.33:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="-",cinema claro
+38.252.215.33:8000/play/a080/index.m3u8
+#EXTINF:-1 group-title="-",onda DIGITAL
+38.252.215.33:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="-",telemundo
+38.252.215.33:8000/play/a087/index.m3u8
