@@ -30,7 +30,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
 
 #EXTINF:0, Tudn
-https://000963.videx.lol/ultratv/tudn_mx/ts/https%3A%2F%2FeWVz.fubo18.com%3A443%2Ftudn_mx%2F2026%2F06%2F29%2F06%2F06%2F03-06006.ts%3Ftoken%3D0d2c75f23764ab31e37ede795d8d407bb261334d-d5-1782730172-1782712172
+https://000963.videx.lol/ultratv/tudn_mx/index.m3u8?key=130b9e61e488ca782b4b245eafe58d774143e0ab12b4857061ed4abe511c0e11&expires=1782720271
 
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 1)
 http://190.108.83.69:8000/play/a05w/index.m3u8
