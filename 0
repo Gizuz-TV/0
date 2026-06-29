@@ -31,8 +31,11 @@ https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
 #EXTINF:-0,"tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/406/1015704.jpg", Canal 5
 https://000963.videx.lol/videx/canal5mx/sub/https%3A%2F%2Fbr559.streamingtv687.com%3A443%2Fglobal%2Fcanal5mx%2Ftracks-v1a1%2Fmono.m3u8%3Fip%3D198.91.81.11%26token%3D8992afd488bbbcdcf68f319e763d7bbbe1960a76-d9-1782759745-1782705745
 
-#EXTINF:0, Tudn
+#EXTINF:0, TUDN
 https://000963.videx.lol/ultratv/tudn_mx/index.m3u8?key=130b9e61e488ca782b4b245eafe58d774143e0ab12b4857061ed4abe511c0e11&expires=1782720271
+
+#EXTINF:0, Azteca 7
+https://us-b4-p-e-jn18.cdn.mdstrm.com/live-stream-gdai/69b0e201a4807b7097316af8/linear/hls/pa/event/Pqw3ERh_TsKTtop8s6dxgg/stream/e827f5c8-b506-4a9e-8868-01c171a58735:TUL/variant/7e0c3b805255082c768bea2c0793529d/bandwidth/1623600.m3u8?aid=5fea09a071a9945deebf5f7c&dnt=true&access_token=0vbUS8KQI8mQPDdBHaEIJn3OX1P7MmEen6uqGdFIKVdGcI6rVIxRqLgKbrfbckgJJvIsZDDAzmk&uid=ZpVSIp2KhSQU7EyQVTp25WQsUrDaAiZw&sid=4uSvFS4R89w3TpjTrzd83V4PuvWlPcLx&pid=DCwPwQVHwH7EvfYCH0oDIDI0ZPbnYye9&ref=envivo.tvazteca.com&ext_pb=0&adInsertionGoogleStreamId=e827f5c8-b506-4a9e-8868-01c171a58735%3ATUL&CMCD=cid%3D%2269b0e201a4807b7097316af8%22%2Cmtp%3D37100%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22DCwPwQVHwH7EvfYCH0oDIDI0ZPbnYye9%22&es=us-b4-p-e-jn18.cdn.mdstrm.com&ote=1782801802729&ot=WPUht2qbeJvCQ8kNukO3fA&proto=https&pz=us
 
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 1)
 http://190.108.83.69:8000/play/a05w/index.m3u8
