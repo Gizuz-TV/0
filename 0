@@ -51,6 +51,8 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd
 #EXTINF:-0,Canal 5
 https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
+#EXTINF:-0,Canal 5
+https://000963.videx.lol/videx/canal5mx/sub/https%3A%2F%2Fge364.streamingtv687.com%3A443%2Fglobal%2Fcanal5mx%2Ftracks-v1a1%2Fmono.m3u8
 
 #EXTINF:-1 group-title="-", Folklore TV
 http://38.252.215.33:8000/play/a008/index.m3u8
