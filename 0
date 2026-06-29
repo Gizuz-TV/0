@@ -48,11 +48,11 @@ http://191.97.59.33:8000/play/a09t/index.m3u8
 http://8.243.126.131:8000/play/a05a/index.m3u8
 
 #EXTINF:-0,Azteca 7
-https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.mpd
+https://live1-ott.izzigo.tv/14/out/u/dash/AZTECA-7-HD/default.m3u8
 #EXTINF:-0,Canal 5
 https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
 #EXTINF:-0,Canal 5
-https://zap-live-ott.izzigo.tv/out/u/dash/ZAP/CANAL-5-HD/default.mpd
+https://zap-live-ott.izzigo.tv/out/u/dash/ZAP/CANAL-5-HD/default.m3u8
 
 #EXTINF:-1 group-title="-", Folklore TV
 http://38.252.215.33:8000/play/a008/index.m3u8
