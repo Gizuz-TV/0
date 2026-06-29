@@ -26,6 +26,9 @@ https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:0, Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-0,"tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/406/1015704.jpg", Canal 5
+https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
+
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 1)
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
@@ -46,9 +49,6 @@ http://191.97.59.33:8000/play/a09t/index.m3u8
 
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" group-title="Deportes",DSports (Opción 10)
 http://8.243.126.131:8000/play/a05a/index.m3u8
-
-#EXTINF:-0,Canal 5
-https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
 
 #EXTINF:-1 group-title="-", Folklore TV
 http://38.252.215.33:8000/play/a008/index.m3u8
