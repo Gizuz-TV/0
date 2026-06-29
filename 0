@@ -28,6 +28,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-0,"tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/406/1015704.jpg", Canal 5
 https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
+#EXTINF:-0,"tvg-logo="https://static.tvmaze.com/uploads/images/large_landscape/406/1015704.jpg", Canal 5
+https://000963.videx.lol/videx/canal5mx/sub/https%3A%2F%2Fbr559.streamingtv687.com%3A443%2Fglobal%2Fcanal5mx%2Ftracks-v1a1%2Fmono.m3u8%3Fip%3D198.91.81.11%26token%3D8992afd488bbbcdcf68f319e763d7bbbe1960a76-d9-1782759745-1782705745
 
 #EXTINF:0, Tudn
 https://000963.videx.lol/ultratv/tudn_mx/index.m3u8?key=130b9e61e488ca782b4b245eafe58d774143e0ab12b4857061ed4abe511c0e11&expires=1782720271
